@@ -116,9 +116,7 @@ These emotions and abilities increase the depth of the game, make the player fee
 <div align="center">
    <div style="display-flex" just>
       <img src="ss1.png" width="900" height="500">
-      <img width="30">
       <img src="ss9.png" width="900" height="500">
-      <img width="30">
       <img src="ss11.png" width="900" height="500">
    </div>
 </div>
@@ -136,9 +134,7 @@ Takım olarak ilk sprint için görüştüğümüz her başlık ele alındığı
 <div align="center">
    <div style="display-flex" just>
       <img src="ss2.png" width="900" height="500">
-      <img width="30">
       <img src="ss8.png" width="900" height="500">
-      <img width="30">
       <img src="ss10.jpeg" width="900" height="500">
       
    </div>

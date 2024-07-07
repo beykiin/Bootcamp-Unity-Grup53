@@ -20,7 +20,9 @@
     ZEYNEP SUDE DUMAN
 </div>
 
-
+<div align="center">
+    <h1>GAME LOGO:</h1>
+</div>
 
 <div align="center"><img src="gameNameLogo.png" width="500" height="400"></div>
 

@@ -19,7 +19,7 @@
     <b>DEVELOPER:</b>
     ZEYNEP SUDE DUMAN
 </div>
-
+<hr>
 <div align="center">
     <h1>GAME LOGO:</h1>
 </div>

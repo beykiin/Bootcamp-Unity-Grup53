@@ -41,9 +41,8 @@
 <div align="center">
     <b>PRODUCT BACKLOGS:</b>
     <h4>TRELLO LINK:</h4>
-    [![Netlify Status](https://api.netlify.com/api/v1/badges/f9a7f8d3-58ca-44ed-a038-ae8d2efd31a5/deploy-status)](https://nikki-my-diary.netlify.app/#/)
     <font align="center" color: "green">
-  <a href="https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds" backgroundColor=green; color: white; padding: 10px; text-decoration: none; border-radius: 4px;">
+  <a href="https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds">
     <strong>EPIC MINDS Trello</strong>
   </a>
 </font>

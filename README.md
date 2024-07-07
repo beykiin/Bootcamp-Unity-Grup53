@@ -1,7 +1,7 @@
 <img src="teamNameLogo.png" width="500" height="400">
 <p align="center">
   <div style="display-flex">
-    <h3>SCRUM MASTER:</h3>
+    <p>SCRUM MASTER:</p>
     <p>ZOZAN AKDOĞAN</p>
   </div>
 </p>

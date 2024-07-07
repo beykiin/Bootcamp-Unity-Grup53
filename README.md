@@ -56,8 +56,8 @@
 <div align="center">
     <h3>GAME DESCRIPTION:</h3>
     <p>Soul Harmonizer is a 3D action-adventure game full of emotional exploration that takes players on the adventure of an amnesiac main character. The game begins with the main character opening his eyes in a forest. The character reinvents himself and improves his abilities through the various emotions he discovers over time.</p>
-    <b>Emotional Explorations and Skill Development: The main character explores emotions such as anger, compassion, and fear. For example, he strengthens his combat abilities by controlling his anger, or uses his compassion to gain forest animals as pets.</b>
-</div><hr>
+</div>
+<b>Emotional Explorations and Skill Development: The main character explores emotions such as anger, compassion, and fear. For example, he strengthens his combat abilities by controlling his anger, or uses his compassion to gain forest animals as pets.</b>
 
 
 

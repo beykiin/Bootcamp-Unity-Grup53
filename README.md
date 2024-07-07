@@ -149,12 +149,12 @@ Her takım üyesi ürün geliştirmenin ve diğer adımların her basamağında 
    <div style="display-flex" just>
       <img src="ss3.png" width="900" height="500">
       <img width="30">
-      <img src="ss4.png" width="450" height="600">
+      <img src="ss4.png" width="450" height="700">
       <img width="30">
-      <img src="ss5.png" width="450" height="600">
-      <img src="ss6.png" width="450" height="600">
+      <img src="ss5.png" width="450" height="700">
+      <img src="ss6.png" width="450" height="700">
       <img width="30">
-      <img src="ss7.png" width="450" height="600">
+      <img src="ss7.png" width="450" height="700">
    </div>
 </div>
 

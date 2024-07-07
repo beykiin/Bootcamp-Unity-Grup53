@@ -151,10 +151,8 @@ Since each team member will take part in every step of product development and o
       <img src="ss3.png" width="900" height="500">
       <img width="30">
       <img src="ss4.png" width="400" height="650">
-      <img width="30">
       <img src="ss5.png" width="400" height="650">
       <img src="ss6.png" width="400" height="650">
-      <img width="30">
       <img src="ss7.png" width="400" height="650">
    </div>
 </div>

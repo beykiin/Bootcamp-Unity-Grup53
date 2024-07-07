@@ -164,7 +164,7 @@ Since each team member will take part in every step of product development and o
 
 ### Notes and Additional Information
 
-- All tasks and progress will be tracked on the [Trello panosunda](https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds)
+- All tasks and progress will be tracked on the [Trello](https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds)
 - Each sprint will be uploaded at least one day before the sprint date and we will have a wider time frame to talk about it.
   
 # Sprint Review 

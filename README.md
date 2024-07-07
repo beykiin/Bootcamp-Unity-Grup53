@@ -143,13 +143,13 @@ Takım olarak ilk sprint için görüştüğümüz her başlık ele alındığı
    <div style="display-flex" just>
       <img src="ss3.png" width="600" height="300">
       <img width="30">
-      <img src="ss4.png" width="300" height="600">
+      <img src="ss4.png" width="400" height="600">
       <img width="30">
-      <img src="ss5.png" width="300" height="600">
+      <img src="ss5.png" width="400" height="600">
       <img width="30">
-      <img src="ss6.png" width="300" height="600">
+      <img src="ss6.png" width="400" height="600">
       <img width="30">
-      <img src="ss7.png" width="300" height="600">
+      <img src="ss7.png" width="400" height="600">
    </div>
 </div>
 

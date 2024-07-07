@@ -8,7 +8,7 @@
     YAĞIZ ŞAHİNLER
 </div>
 <div align="center">
-    <b>DEVELOPER:</b>
+    <b align="start">DEVELOPER:</b>
     YASİN BEKEN
 </div>
 <div align="center">

@@ -148,7 +148,7 @@ Her takım üyesi ürün geliştirmenin ve diğer adımların her basamağında 
 - Demokratik ve oy bütünlüğünü destekleyen bir süreç geçirmeye karar verdik.
 <div align="center">
    <div style="display-flex" just>
-      <img src="ss3.png" width="600" height="300">
+      <img src="ss3.png" width="700" height="400">
       <img width="30">
       <img src="ss4.png" width="450" height="600">
       <img width="30">

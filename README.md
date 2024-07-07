@@ -1,4 +1,4 @@
-<img src="teamNameLogo.png" width="500" height="400">
+<div align="center"><img src="teamNameLogo.png" width="500" height="400"></div>
 <div align="center">
     <b size:20>SCRUM MASTER:</b>
     ZOZAN AKDOĞAN

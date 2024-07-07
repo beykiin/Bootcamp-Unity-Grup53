@@ -30,8 +30,10 @@
 
 <div align="center"><img src="gameNameLogo.png" width="400" height="300"></div>
 
-## Takım İsmi
-Epic Minds
+<div align="center">
+    <b>TEAM NAME:</b>
+    EPIC MIND
+</div>
 
 ## Oyun İsmi 
 SOUL HARMONİZER

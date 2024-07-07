@@ -41,8 +41,12 @@
 <div align="center">
     <b>PRODUCT BACKLOGS:</b>
     <h4>TRELLO LINK:</h4>
-    [![trello](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=trello&logoColor=blue)]([https://www.linkedin.com/in/yasin-beken-51aa0427b/](https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds))
-        
+    <p align="center">
+  <a href="https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds" style="background-color: #4CAF50; color: white; padding: 10px; text-decoration: none; border-radius: 4px;">
+    <strong>EPIC MINDS Trello</strong>
+  </a>
+</p>
+
 
 
     

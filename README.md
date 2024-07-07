@@ -69,7 +69,7 @@
 <div align="center">
     <h3>GAME FEATURES:</h3>
     <h4>FEAR:</h4>
-    <div>
+    <div align="start">
         <b>Effect Mechanics:</b>
     When encountering wild animals in the forest or in dark environments, the fear bar appears and increases over time.
     </div>

@@ -33,16 +33,16 @@
 <div align="center">
     <b>TEAM NAME:</b>
     EPIC MIND
-</div>
+</div><hr>
 <div align="center">
     <b>GAME NAME:</b>
     SOUL HARMONIZER
-</div>
+</div><hr>
 <div align="center">
     <b>PRODUCT BACKLOGS:</b>
     <h4>TRELLO LINK:</h4>
     <p>https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds</p>
-</div>
+</div><hr>
 
 
 

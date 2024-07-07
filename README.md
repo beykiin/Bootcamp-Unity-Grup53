@@ -48,7 +48,10 @@
 </font>
 </div><hr>
 
-
+<div align="center">
+    <b>PRODUCT DESCRIPTION:</b>
+    <p>Soul Harmonizer is a 3D platformer and puzzle experience that is shaped by the power of emotions. At the center of the game are the character's abilities, which change according to the emotions they feel, and how they interact in the game world. The game has a specific storyline and offers rich content that will challenge players both mentally and emotionally throughout the various levels.</p>
+</div><hr>
 
 
 

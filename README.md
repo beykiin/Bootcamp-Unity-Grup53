@@ -66,18 +66,6 @@
     In addition to improving combat abilities, the game also encourages puzzle solving and strategic thinking. It offers a dynamic combat system where each emotion is integrated with a different usage style and game mechanics.
 </div><hr>
 
-
-
-
-
-Sadness
-Effect Mechanics: When an ally or pet is lost, the character takes -10 damage.
-Result: After each experience of sadness, the effect diminishes and the character gains resilience and becomes less susceptible to future losses.
-Bravery
-Effect Mechanics: As the combats are won, the ability to control the emotion of fear increases and the fear bar begins to fill more slowly.
-Result: Courage reduces the character's fear level and makes him less affected by making him more successful in battles.
-These emotions and abilities increase the depth of the game, make the player feel the emotional and mental development of the character, and emphasize the importance of in-game decisions and strategies.
-
 <div align="center">
     <h3>GAME FEATURES:</h3>
     <h4>FEAR:</h4>

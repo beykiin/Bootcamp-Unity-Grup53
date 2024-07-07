@@ -106,7 +106,7 @@ These emotions and abilities increase the depth of the game, make the player fee
 </div><hr>
 
 
-div align="center">
+<div align="center">
     <h3>TARGET GROUP:</h3>
     <p>+8 years and above</p>
     <p>Action, Adventure and puzzle lovers.</p>

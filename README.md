@@ -139,6 +139,13 @@ Takım olarak ilk sprint için görüştüğümüz her başlık ele alındığı
 İletişimin sürekli olması ve ürüne dair herkesin bilgi eşitliğine sahip olması için her an temasta olan bir ekip olmak için çabalıyoruz.
 **Zaman:** Her gün saat  9-10 arası
 **Yer:** Discord Ses Kanalı- WhatsApp  
+buraya toplantı
+
+### Geliştirme Süreci 
+Her takım üyesi ürün geliştirmenin ve diğer adımların her basamağında rol alacağı için ekiplere ayırma ihtiyacı duymadık.
+
+1. **Karakter Oyun İsmi ve Ekip isimlerinin belirlenme Süreci**
+2. Demokratik ve oy bütünlüğünü destekleyen bir süreç geçirmeye karar verdik.
 <div align="center">
    <div style="display-flex" just>
       <img src="ss3.png" width="600" height="300">
@@ -151,14 +158,6 @@ Takım olarak ilk sprint için görüştüğümüz her başlık ele alındığı
       <img src="ss7.png" width="450" height="600">
    </div>
 </div>
-
-### Geliştirme Süreci 
-Her takım üyesi ürün geliştirmenin ve diğer adımların her basamağında rol alacağı için ekiplere ayırma ihtiyacı duymadık.
-
-1. **Karakter Oyun İsmi ve Ekip isimlerinin belirlenme Süreci**
-2. Demokratik ve oy bütünlüğünü destekleyen bir süreç geçirmeye karar verdik.
-3. buraya oylama sonuçları
-4. 
 5. **Karşılaşılan sorunlar ve engeller**
 6. Ekip motivasyonun başlangıçta tanışma ve diğer stresli etmenlerden( final dönemi, bayram vs) kaynaklı düşük olmasından ötürü ekip içerisinde genel bir iletişim ve kararsızlık süreci yaşandı bu noktada samimiyetle beklentiler ve hassasiyetlerin dile getirilmesi ekibi birbirine güvenen ve destekleyen bir yere taşıdı.
 

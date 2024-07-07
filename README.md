@@ -1,3 +1,6 @@
+<div align="center">
+    <h1>TEAM LOGO:</h1>
+</div>
 <div align="center"><img src="teamNameLogo.png" width="500" height="400"></div><hr>
 <div align="center">
     <b>SCRUM MASTER:</b>
@@ -21,9 +24,9 @@
 </div>
 <hr>
 <img height="100">
-<div align="center" gap="20px">
+<div align="center">
     <h1>GAME LOGO:</h1>
-</div><hr>
+</div>
 
 <div align="center"><img src="gameNameLogo.png" width="500" height="400"></div>
 

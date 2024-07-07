@@ -113,4 +113,4 @@ These emotions and abilities increase the depth of the game, make the player fee
 </div><hr>
 
 <h1 align="center"><i> Sprint 1 </i></h1>
-![Uploading Ekran görüntüsü 2024-07-07 140510.png…]()
+

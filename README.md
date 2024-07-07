@@ -28,11 +28,20 @@
     <h1>GAME LOGO:</h1>
 </div>
 
-<div align="center"><img src="gameNameLogo.png" width="400" height="300"></div>
+<div align="center"><img src="gameNameLogo.png" width="400" height="300"></div><hr>
 
 <div align="center">
     <b>TEAM NAME:</b>
     EPIC MIND
+</div>
+<div align="center">
+    <b>GAME NAME:</b>
+    SOUL HARMONIZER
+</div>
+<div align="center">
+    <b>PRODUCT BACKLOGS:</b>
+    TRELLO LINK:
+    https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds
 </div>
 
 ## Oyun İsmi 

@@ -41,7 +41,7 @@
 <div align="center">
     <b>PRODUCT BACKLOGS:</b>
     <h4>TRELLO LINK:</h4>
-    <p align="center">
+    <p align="center" color="green">
   <a href="https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds" backgroundColor="green"; color: white; padding: 10px; text-decoration: none; border-radius: 4px;">
     <strong>EPIC MINDS Trello</strong>
   </a>

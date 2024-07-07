@@ -28,7 +28,7 @@
     <h1>GAME LOGO:</h1>
 </div>
 
-<div align="center"><img src="gameNameLogo.png" width="350" height="250"></div>
+<div align="center"><img src="gameNameLogo.png" width="400" height="300"></div>
 
 ## Takım İsmi
 Epic Minds

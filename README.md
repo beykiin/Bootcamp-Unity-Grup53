@@ -115,19 +115,17 @@ These emotions and abilities increase the depth of the game, make the player fee
 
 <div align="center">
    <div style="display-flex" just>
-      <img src="ss1.png" width="300" height="600">
+      <img src="ss1.png" width="600" height="300">
       <img width="30">
-      <img src="ss2.png" width="300" height="600">
+      <img src="ss2.png" width="600" height="300">
       <img width="30">
-      <img src="ss8.png" width="300" height="600">
+      <img src="ss8.png" width="600" height="300">
       <img width="30">
-      <img src="ss9.png" width="300" height="600">
+      <img src="ss9.png" width="600" height="300">
       <img width="30">
-      <img src="ss10.png" width="300" height="600">
+      <img src="ss10.png" width="600" height="300">
       <img width="30">
-      <img src="ss11.png" width="300" height="600">
-      <img width="30">
-      <img src="ss12.png" width="300" height="600">
+      <img src="ss11.png" width="600" height="300">
    </div>
 </div>
 
@@ -143,15 +141,15 @@ Takım olarak ilk sprint için görüştüğümüz her başlık ele alındığı
 **Yer:** Discord Ses Kanalı- WhatsApp  
 <div align="center">
    <div style="display-flex" just>
-      <img src="ss3.png" width="300" height="600">
+      <img src="ss3.png" width="600" height="300">
       <img width="30">
-      <img src="ss4.png" width="300" height="600">
+      <img src="ss4.png" width="600" height="300">
       <img width="30">
-      <img src="ss5.png" width="300" height="600">
+      <img src="ss5.png" width="600" height="300">
       <img width="30">
-      <img src="ss6.png" width="300" height="600">
+      <img src="ss6.png" width="600" height="300">
       <img width="30">
-      <img src="ss7.png" width="300" height="600">
+      <img src="ss7.png" width="600" height="300">
    </div>
 </div>
 

@@ -73,7 +73,7 @@
         <b>Effect Mechanics:</b>
     When encountering wild animals in the forest or in dark environments, the fear bar appears and increases over time.
     </div>
-    <div>
+    <div align="start">
         <b>Result:</b>
     As the fear level increases, the character's reaction slows down and certain abilities are affected.
     </div>

@@ -69,10 +69,14 @@
 <div align="center">
     <h3>GAME FEATURES:</h3>
     <h4>FEAR:</h4>
-    <b>Effect Mechanics:</b>
+    <div>
+        <b>Effect Mechanics:</b>
     When encountering wild animals in the forest or in dark environments, the fear bar appears and increases over time.
-    <b>Result:</b>
+    </div>
+    <div>
+        <b>Result:</b>
     As the fear level increases, the character's reaction slows down and certain abilities are affected.
+    </div>
     <h4>ANGER:</h4>
     <b>Effect Mechanics:</b>
     Increases enemy damage by 50% for 15 seconds.

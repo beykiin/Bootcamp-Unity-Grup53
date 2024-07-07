@@ -58,31 +58,18 @@
     <p>Soul Harmonizer is a 3D action-adventure game full of emotional exploration that takes players on the adventure of an amnesiac main character. The game begins with the main character opening his eyes in a forest. The character reinvents himself and improves his abilities through the various emotions he discovers over time.</p>
     <b>Emotional Explorations and Skill Development:</b> 
     The main character explores emotions such as anger, compassion, and fear. For example, he strengthens his combat abilities by controlling his anger, or uses his compassion to gain forest animals as pets.
+    <b>Nature and Forest Themed Locations:</b> 
+    Players adventure in a world filled with vast and detailed forests to explore. A dynamic environment is presented; Day and night cycles add depth to the game.
+    <b>Enhanced Storytelling:</b> 
+    The game offers an in-depth story that tells the character's journey to recall his past and memory. As we watch the main character grow emotionally and mentally, players go on an emotional journey with him.
+    <b>Strategic Combat and Puzzle Solving:</b> 
+    In addition to improving combat abilities, the game also encourages puzzle solving and strategic thinking. It offers a dynamic combat system where each emotion is integrated with a different usage style and game mechanics.
 </div><hr>
 
 
 
 
 
-
-Emotional Explorations and Skill Development: The main character explores emotions such as anger, compassion, and fear. For example, he strengthens his combat abilities by controlling his anger, or uses his compassion to gain forest animals as pets.
-
-Nature and Forest Themed Locations: Players adventure in a world filled with vast and detailed forests to explore. A dynamic environment is presented; Day and night cycles add depth to the game.
-
-Enhanced Storytelling: The game offers an in-depth story that tells the character's journey to recall his past and memory. As we watch the main character grow emotionally and mentally, players go on an emotional journey with him.
-
-Strategic Combat and Puzzle Solving: In addition to improving combat abilities, the game also encourages puzzle solving and strategic thinking. It offers a dynamic combat system where each emotion is integrated with a different usage style and game mechanics.
-
-Effects and consequences of emotions:
-Fear
-Effect Mechanics: When encountering wild animals in the forest or in dark environments, the fear bar appears and increases over time.
-Result: As the fear level increases, the character's reaction slows down and certain abilities are affected.
-Anger
-Effect Mechanics: Increases enemy damage by 50% for 15 seconds.
-Result: The Rage skill increases the character's attack power, making it more effective for a short time.
-Compassion and Devotion
-Effect Mechanics: Can form an alliance with an encountered NPC or tame animals in the forest by feeding them.
-Conclusion: Tamed animals can help the character or offer special abilities.
 Sadness
 Effect Mechanics: When an ally or pet is lost, the character takes -10 damage.
 Result: After each experience of sadness, the effect diminishes and the character gains resilience and becomes less susceptible to future losses.
@@ -91,10 +78,45 @@ Effect Mechanics: As the combats are won, the ability to control the emotion of 
 Result: Courage reduces the character's fear level and makes him less affected by making him more successful in battles.
 These emotions and abilities increase the depth of the game, make the player feel the emotional and mental development of the character, and emphasize the importance of in-game decisions and strategies.
 
-## Oyun Özellikleri
-1
-2
-3
-## Hedef Kitle
+<div align="center">
+    <h3>GAME FEATURES:</h3>
+    <h4>FEAR:</h4>
+    <b>Effect Mechanics:</b>
+    When encountering wild animals in the forest or in dark environments, the fear bar appears and increases over time.
+    <b>Result:</b>
+    As the fear level increases, the character's reaction slows down and certain abilities are affected.
+    <h4>ANGER:</h4>
+    <b>Effect Mechanics:</b>
+    Increases enemy damage by 50% for 15 seconds.
+    <b>Results:</b>
+    As the fear level increases, the character's reaction slows down and certain abilities are affected.
+    <h4>COMPASION AND DEVOTION:</h4>
+    <b>Effect Mechanics:</b>
+    Can form an alliance with an encountered NPC or tame animals in the forest by feeding them.
+    <b>Conclusion:</b>
+    Tamed animals can help the character or offer special abilities.
+    <h4>SADNESS:</h4>
+    <b>Effect Mechanics:</b>
+     When an ally or pet is lost, the character takes -10 damage.
+    <b>Results:</b>
+    After each experience of sadness, the effect diminishes and the character gains resilience and becomes less susceptible to future losses.
+    <h4>BRAVERY:</h4>
+    <b>Effect Mechanics:</b>
+     As the combats are won, the ability to control the emotion of fear increases and the fear bar begins to fill more slowly.
+    <b>Results:</b>
+    Courage reduces the character's fear level and makes him less affected by making him more successful in battles.
+These emotions and abilities increase the depth of the game, make the player feel the emotional and mental development of the character, and emphasize the importance of in-game decisions and strategies.
+</div><hr>
+<div align="center">
+    <h3>PRODUCT DESCRIPTION:</h3>
+    <p>Soul Harmonizer is a 3D platformer and puzzle experience that is shaped by the power of emotions. At the center of the game are the character's abilities, which change according to the emotions they feel, and how they interact in the game world. The game has a specific storyline and offers rich content that will challenge players both mentally and emotionally throughout the various levels.</p>
+</div><hr>
+
+
+div align="center">
+    <h3>TARGET GROUP:</h3>
+    <p>+8 years and above</p>
+    <p>Action, Adventure and puzzle lovers.</p>
+</div><hr>
 
 <h1 align="center"><i> Sprint 1 </i></h1>

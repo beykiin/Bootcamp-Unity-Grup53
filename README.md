@@ -115,17 +115,17 @@ These emotions and abilities increase the depth of the game, make the player fee
 
 <div align="center">
    <div style="display-flex" just>
-      <img src="ss1.png" width="600" height="300">
+      <img src="ss1.png" width="900" height="500">
       <img width="30">
-      <img src="ss2.png" width="600" height="300">
+      <img src="ss2.png" width="900" height="500">
       <img width="30">
-      <img src="ss8.png" width="600" height="300">
+      <img src="ss8.png" width="900" height="500">
       <img width="30">
-      <img src="ss9.png" width="600" height="300">
+      <img src="ss9.png" width="900" height="500">
       <img width="30">
-      <img src="ss10.jpeg" width="600" height="300">
+      <img src="ss10.jpeg" width="900" height="500">
       <img width="30">
-      <img src="ss11.png" width="600" height="300">
+      <img src="ss11.png" width="900" height="500">
    </div>
 </div>
 
@@ -148,7 +148,7 @@ Her takım üyesi ürün geliştirmenin ve diğer adımların her basamağında 
 - Demokratik ve oy bütünlüğünü destekleyen bir süreç geçirmeye karar verdik.
 <div align="center">
    <div style="display-flex" just>
-      <img src="ss3.png" width="900" height="600">
+      <img src="ss3.png" width="900" height="500">
       <img width="30">
       <img src="ss4.png" width="450" height="600">
       <img width="30">

@@ -22,7 +22,7 @@
 
 
 
-# ![Logo](https://example.com/logo.png) Proje Adı
+<div align="center"><img src="gameNameLogo.png" width="500" height="400"></div>
 
 ## Takım İsmi
 Epic Minds

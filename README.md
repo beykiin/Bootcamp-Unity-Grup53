@@ -41,7 +41,7 @@
 <div align="center">
     <b>PRODUCT BACKLOGS:</b>
     TRELLO LINK:
-    https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds
+    <p>https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds</p>
 </div>
 
 ## Oyun İsmi 

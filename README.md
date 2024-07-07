@@ -1,12 +1,26 @@
 <div align="center"><img src="teamNameLogo.png" width="500" height="400"></div>
 <div align="center">
-    <b size:20>SCRUM MASTER:</b>
+    <b>SCRUM MASTER:</b>
     ZOZAN AKDOĞAN
 </div>
-<p align="center"><h3>PRODUCT OWNER:</h3> YAĞIZ ŞAHİNLER</p>
-<p align="center"><h3>DEVELOPER:</h3> YASİN BEKEN</p>
-<p align="center"><h3>DEVELOPER:</h3> ZEYNEP SUDE DUMAN</p>
-<p align="center"><h3>DEVELOPER:</h3> ZÜMRA BETÜL ALKAN</p>
+<div align="center">
+    <b>PRODUCT OWNER:</b>
+    YAĞIZ ŞAHİNLER
+</div>
+<div align="center">
+    <b>DEVELOPER:</b>
+    YASİN BEKEN
+</div>
+<div align="center">
+    <b>DEVELOPER:</b>
+    ZÜMRA BETÜL ALKAN
+</div>
+<div align="center">
+    <b>DEVELOPER:</b>
+    ZEYNEP SUDE DUMAN
+</div>
+
+
 
 # ![Logo](https://example.com/logo.png) Proje Adı
 

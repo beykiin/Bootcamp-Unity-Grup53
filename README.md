@@ -123,7 +123,7 @@ These emotions and abilities increase the depth of the game, make the player fee
       <img width="30">
       <img src="ss9.png" width="600" height="300">
       <img width="30">
-      <img src="ss10.png" width="600" height="300">
+      <img src="ss10.jpeg" width="600" height="300">
       <img width="30">
       <img src="ss11.png" width="600" height="300">
    </div>

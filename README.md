@@ -177,7 +177,7 @@ Yağız, Yasin, Zeynep, Zümra, Zozan
 1. **Sprint Hedefleri**
    - Karakter seçiminin tamamlanması
    - Temel hareket kodlarının yazılması
-   - Oyun içeriği üzerine konuşuldu oyun hikayesi ve genel içerik kararlaştırıldı.
+   - Oyun içeriği üzerine konuşulması oyun hikayesi ve genel içerik kararlaştırılması.
 
 2. **Geri Bildirimlerin Toplanması**
    - Takım üyelerinin kendi iç değerlendirmeleri

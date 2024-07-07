@@ -40,7 +40,7 @@
 </div>
 <div align="center">
     <b>PRODUCT BACKLOGS:</b>
-    <b>TRELLO LINK:</b>
+    <h6>TRELLO LINK:</h6>
     <p>https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds</p>
 </div>
 

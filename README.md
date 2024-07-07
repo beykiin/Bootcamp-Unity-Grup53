@@ -66,7 +66,7 @@
     In addition to improving combat abilities, the game also encourages puzzle solving and strategic thinking. It offers a dynamic combat system where each emotion is integrated with a different usage style and game mechanics.
 </div><hr>
 
-<div align="center">
+<div align="start">
     <h3>GAME FEATURES:</h3>
     <h4>FEAR:</h4>
     <div align="start">

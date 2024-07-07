@@ -1,4 +1,4 @@
-<img src="SS1.png" width="300" height="600">
+<img src="teamNameLogo.png" width="300" height="600">
 <p align="center"><h3>SCRUM MASTER:</h3> ZOZAN AKDOĞAN</p>
 <p align="center"><h3>PRODUCT OWNER:</h3> YAĞIZ ŞAHİNLER</p>
 <p align="center"><h3>DEVELOPER:</h3> YASİN BEKEN</p>

@@ -198,7 +198,7 @@ Yağız, Yasin, Zeynep, Zümra, Zozan
 
 - **İyi Gitmeyenler:**
   - Sürecin belli bir tarihe kadar yavaş ilerlemesi.
-  - - Verilen ufak deadlinelerın ufak da olsa sarkması
+  - Verilen ufak deadlinelerın ufak da olsa sarkması
 
 - **İyileştirilebilirler:**
   - Görev sürelerinin daha gerçekçi planlanması gerekiyor.

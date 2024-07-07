@@ -78,26 +78,27 @@
     As the fear level increases, the character's reaction slows down and certain abilities are affected.
     </div>
     <h4>ANGER:</h4>
-    <b>Effect Mechanics:</b>
-    Increases enemy damage by 50% for 15 seconds.
-    <b>Results:</b>
-    As the fear level increases, the character's reaction slows down and certain abilities are affected.
+    <div><b>Effect Mechanics:</b>
+    Increases enemy damage by 50% for 15 seconds.</div>
+    <div><b>Results:</b>
+    As the fear level increases, the character's reaction slows down and certain abilities are affected.</div>
     <h4>COMPASION AND DEVOTION:</h4>
-    <b>Effect Mechanics:</b>
-    Can form an alliance with an encountered NPC or tame animals in the forest by feeding them.
-    <b>Conclusion:</b>
-    Tamed animals can help the character or offer special abilities.
+    <div><b>Effect Mechanics:</b>
+    Can form an alliance with an encountered NPC or tame animals in the forest by feeding them.</div>
+    <div> <b>Conclusion:</b>
+    Tamed animals can help the character or offer special abilities.</div>
     <h4>SADNESS:</h4>
-    <b>Effect Mechanics:</b>
-     When an ally or pet is lost, the character takes -10 damage.
-    <b>Results:</b>
-    After each experience of sadness, the effect diminishes and the character gains resilience and becomes less susceptible to future losses.
+    <div><b>Effect Mechanics:</b>
+     When an ally or pet is lost, the character takes -10 damage.</div>
+    <div> <b>Results:</b>
+    After each experience of sadness, the effect diminishes and the character gains resilience and becomes less susceptible to future losses.</div>
     <h4>BRAVERY:</h4>
-    <b>Effect Mechanics:</b>
-     As the combats are won, the ability to control the emotion of fear increases and the fear bar begins to fill more slowly.
-    <b>Results:</b>
+    <div><b>Effect Mechanics:</b>
+     As the combats are won, the ability to control the emotion of fear increases and the fear bar begins to fill more slowly.</div>
+    <div> <b>Results:</b>
     Courage reduces the character's fear level and makes him less affected by making him more successful in battles.
-These emotions and abilities increase the depth of the game, make the player feel the emotional and mental development of the character, and emphasize the importance of in-game decisions and strategies.
+These emotions and abilities increase the depth of the game, make the player feel the emotional and mental development of the character, and emphasize the importance of in-game decisions and strategies.</div>
+   
 </div><hr>
 <div align="center">
     <h3>PRODUCT DESCRIPTION:</h3>

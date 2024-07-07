@@ -146,6 +146,7 @@ Takım olarak ilk sprint için görüştüğümüz her başlık ele alındığı
       <img src="ss4.png" width="450" height="600">
       <img width="30">
       <img src="ss5.png" width="450" height="600">
+        <img height="30">
       <img src="ss6.png" width="450" height="600">
       <img width="30">
       <img src="ss7.png" width="450" height="600">

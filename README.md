@@ -115,3 +115,67 @@ These emotions and abilities increase the depth of the game, make the player fee
 
 <h1 align="center"><i> Sprint 1 </i></h1>
 
+## Sprint puanlaması
+Sprintlerin değerlendirilmesi için puanlama yaptık ve ilk sprintimizin puanlamasını 7 puan olarak değerlendirdik.
+Takım olarak ilk sprint için görüştüğümüz her başlık ele alındığı için 7 tam puanla ilk sprintimizi kapattık.
+
+## Günlük Toplantıları 
+İletişimin sürekli olması ve ürüne dair herkesin bilgi eşitliğine sahip olması için her an temasta olan bir ekip olmak için çabalıyoruz.
+**Zaman:** Her gün saat  9-10 arası
+**Yer:** Discord Ses Kanalı- WhatsApp  
+BURAYA Toplantı GÖRSELLERi
+
+### Geliştirme Süreci 
+Her takım üyesi ürün geliştirmenin ve diğer adımların her basamağında rol alacağı için ekiplere ayırma ihtiyacı duymadık.
+
+1. **Karakter Oyun İsmi ve Ekip isimlerinin belirlenme Süreci**
+2. Demokratik ve oy bütünlüğünü destekleyen bir süreç geçirmeye karar verdik.
+3. buraya oylama sonuçları
+4. 
+5. **Karşılaşılan sorunlar ve engeller**
+6. Ekip motivasyonun başlangıçta tanışma ve diğer stresli etmenlerden( final dönemi, bayram vs) kaynaklı düşük olmasından ötürü ekip içerisinde genel bir iletişim ve kararsızlık süreci yaşandı bu noktada samimiyetle beklentiler ve hassasiyetlerin dile getirilmesi ekibi birbirine güvenen ve destekleyen bir yere taşıdı.
+
+### Notlar ve Ek Bilgiler
+
+- Tüm görevler ve ilerlemeler [Trello panosunda](https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds) takip edilecektir.
+- Her sprint sprint tarihinden en az bir gün önce yüklenecek ve üzerine konuşmamız için daha geniş bir zaman dilimimiz olacaktır.
+- 
+# Sprint Review 
+
+## Katılımcılar
+Yağız, Yasin, Zeynep, Zümra, Zozan
+## Toplantı Gündemi
+İlk sprint ve oyun taslağı
+
+1. **Sprint Hedefleri**
+   - Karakter seçiminin tamamlanması
+   - Temel hareket kodlarının yazılması
+   - Oyun içeriği üzerine konuşuldu oyun hikayesi ve genel içerik kararlaştırıldı.
+
+2. **Geri Bildirimlerin Toplanması**
+   - Takım üyelerinin kendi iç değerlendirmeleri
+   - Geçen üç haftanın telafisi için neler yapılabilir
+
+3. **Eksiklikler ve İyileştirme Alanları**
+   - ekip motivasyonu için icebreaker içeriklerin kullanılması
+   - Gelecek sprintte üzerinde çalışılması gereken alanların spesifikleştirilmesi
+
+# Sprint Retrospective
+
+- **İyi Gidenler:**
+  - Takım üyeleri arasındaki iletişimin ve güvenin artması 
+  - Sprint hedefleri büyük ölçüde başarıyla tamamlandı.
+  - Günlük stand-up toplantıları verimli geçti ve sorunlar hızlıca çözüldü.
+  -  Görevlendirmelerin doğru üyelere yapılması sürecin hızlanmasını ve daha iyi ilerleyeceğinin göstergesi
+  -  Takım içindeki işbirliği ve iletişimin olumlu yönlerinin içeriğe yararı oldukça fazlaydı
+
+- **İyi Gitmeyenler:**
+  - Sürecin belli bir tarihe kadar yavaş ilerlemesi.
+  - - Verilen ufak deadlinelerın ufak da olsa sarkması
+
+- **İyileştirilebilirler:**
+  - Görev sürelerinin daha gerçekçi planlanması gerekiyor.
+  
+**Sonraki Sprint İçin Hedeflenenler:**
+- Oyun içerisindeki karakterin geliştirilmesi konuşuldu.
+- Level design, uı ve ai eklentileri için tarih belirlendi.

@@ -56,14 +56,14 @@
 <div align="center">
     <h3>GAME DESCRIPTION:</h3>
     <p>Soul Harmonizer is a 3D action-adventure game full of emotional exploration that takes players on the adventure of an amnesiac main character. The game begins with the main character opening his eyes in a forest. The character reinvents himself and improves his abilities through the various emotions he discovers over time.</p>
-    <b>Emotional Explorations and Skill Development:</b> 
-    The main character explores emotions such as anger, compassion, and fear. For example, he strengthens his combat abilities by controlling his anger, or uses his compassion to gain forest animals as pets.
-    <b>Nature and Forest Themed Locations:</b> 
-    Players adventure in a world filled with vast and detailed forests to explore. A dynamic environment is presented; Day and night cycles add depth to the game.
-    <b>Enhanced Storytelling:</b> 
-    The game offers an in-depth story that tells the character's journey to recall his past and memory. As we watch the main character grow emotionally and mentally, players go on an emotional journey with him.
-    <b>Strategic Combat and Puzzle Solving:</b> 
-    In addition to improving combat abilities, the game also encourages puzzle solving and strategic thinking. It offers a dynamic combat system where each emotion is integrated with a different usage style and game mechanics.
+    <div><b>Emotional Explorations and Skill Development:</b> 
+    The main character explores emotions such as anger, compassion, and fear. For example, he strengthens his combat abilities by controlling his anger, or uses his compassion to gain forest animals as pets.</div>
+    <div><b>Nature and Forest Themed Locations:</b> 
+    Players adventure in a world filled with vast and detailed forests to explore. A dynamic environment is presented; Day and night cycles add depth to the game.</div>
+    <div><b>Enhanced Storytelling:</b> 
+    The game offers an in-depth story that tells the character's journey to recall his past and memory. As we watch the main character grow emotionally and mentally, players go on an emotional journey with him.</div>
+    <div><b>Strategic Combat and Puzzle Solving:</b> 
+    In addition to improving combat abilities, the game also encourages puzzle solving and strategic thinking. It offers a dynamic combat system where each emotion is integrated with a different usage style and game mechanics.</div>
 </div><hr>
 
 <div align="start">

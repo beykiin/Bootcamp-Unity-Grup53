@@ -123,14 +123,14 @@ These emotions and abilities increase the depth of the game, make the player fee
 
 <h1 align="center"><i> Sprint 1 </i></h1>
 
-## Sprint puanlaması
-Sprintlerin değerlendirilmesi için puanlama yaptık ve ilk sprintimizin puanlamasını 7 puan olarak değerlendirdik.
-Takım olarak ilk sprint için görüştüğümüz her başlık ele alındığı için 7 tam puanla ilk sprintimizi kapattık.
+## Sprint Scoring
+We scored to evaluate the sprints and evaluated the scoring of our first sprint as 7 points.
+As a team, we closed our first sprint with 7 full points because every topic we discussed for the first sprint was addressed.
 
-## Günlük Toplantıları 
-İletişimin sürekli olması ve ürüne dair herkesin bilgi eşitliğine sahip olması için her an temasta olan bir ekip olmak için çabalıyoruz.
-**Zaman:** Her gün saat  9-10 arası
-**Yer:** Discord Ses Kanalı- WhatsApp  
+## Daily Meetings
+We strive to be a team that is in contact at all times so that communication is continuous and everyone has equal information about the product.
+**Time:** Every day between 9-10 am
+**Place:** Discord Voice Channel- WhatsApp
 <div align="center">
    <div style="display-flex" just>
       <img src="ss2.png" width="900" height="500">
@@ -140,11 +140,11 @@ Takım olarak ilk sprint için görüştüğümüz her başlık ele alındığı
    </div>
 </div>
 
-### Geliştirme Süreci 
-Her takım üyesi ürün geliştirmenin ve diğer adımların her basamağında rol alacağı için ekiplere ayırma ihtiyacı duymadık.
+### Development Process
+Since each team member will take part in every step of product development and other steps, we did not need to separate them into teams.
 
-- **Karakter Oyun İsmi ve Ekip isimlerinin belirlenme Süreci**
-- Demokratik ve oy bütünlüğünü destekleyen bir süreç geçirmeye karar verdik.
+- **Process of Determining Character Game Name and Team Names**
+- We decided to go through a process that is democratic and supports voting integrity.
 <div align="center">
    <div style="display-flex" just>
       <img src="ss3.png" width="900" height="500">
@@ -158,51 +158,53 @@ Her takım üyesi ürün geliştirmenin ve diğer adımların her basamağında 
    </div>
 </div>
 
-- Karşılaşılan sorunlar ve engeller
+- Problems and obstacles encountered
 
-- Ekip motivasyonun başlangıçta tanışma ve diğer stresli etmenlerden( final dönemi, bayram vs) kaynaklı düşük olmasından ötürü ekip içerisinde genel bir iletişim ve kararsızlık süreci yaşandı bu noktada samimiyetle beklentiler ve hassasiyetlerin dile getirilmesi ekibi birbirine güvenen ve destekleyen bir yere taşıdı.
+- Due to the low motivation of the team at the beginning due to meeting and other stressful factors (final period, holidays, etc.), there was a general period of communication and indecision within the team. At this point, sincerely expressing expectations and sensitivities moved the team to a place where they trust and support each other.
 
-### Notlar ve Ek Bilgiler
+### Notes and Additional Information
 
-- Tüm görevler ve ilerlemeler [Trello panosunda](https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds) takip edilecektir.
-- Her sprint sprint tarihinden en az bir gün önce yüklenecek ve üzerine konuşmamız için daha geniş bir zaman dilimimiz olacaktır.
-- 
+- All tasks and progress will be tracked on the [Trello panosunda](https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds)
+- Each sprint will be uploaded at least one day before the sprint date and we will have a wider time frame to talk about it.
+  
 # Sprint Review 
 
-## Katılımcılar
+## Participants
+
 Yağız, Yasin, Zeynep, Zümra, Zozan
-## Toplantı Gündemi
-İlk sprint ve oyun taslağı
 
-1. **Sprint Hedefleri**
-   - Karakter seçiminin tamamlanması
-   - Temel hareket kodlarının yazılması
-   - Oyun içeriği üzerine konuşulması oyun hikayesi ve genel içerik kararlaştırılması.
+## Meeting Agenda
+First sprint and game draft
 
-2. **Geri Bildirimlerin Toplanması**
-   - Takım üyelerinin kendi iç değerlendirmeleri
-   - Geçen üç haftanın telafisi için neler yapılabilir
+1. **Sprint Goals**
+   - Completing character selection
+   - Writing basic movement codes
+   - The game content was discussed and the game story and general content were decided.
 
-3. **Eksiklikler ve İyileştirme Alanları**
-   - ekip motivasyonu için icebreaker içeriklerin kullanılması
-   - Gelecek sprintte üzerinde çalışılması gereken alanların spesifikleştirilmesi
+2. **Collecting Feedback**
+   - Self-evaluations of team members
+   - What can be done to make up for the past three weeks?
+
+3. **Deficiencies and Areas for Improvement**
+   - Using icebreaker content for team motivation
+   - Specification of areas that need to be worked on in the next sprint
 
 # Sprint Retrospective
 
-- **İyi Gidenler:**
-  - Takım üyeleri arasındaki iletişimin ve güvenin artması 
-  - Sprint hedefleri büyük ölçüde başarıyla tamamlandı.
-  - Günlük stand-up toplantıları verimli geçti ve sorunlar hızlıca çözüldü.
-  -  Görevlendirmelerin doğru üyelere yapılması sürecin hızlanmasını ve daha iyi ilerleyeceğinin göstergesi
-  -  Takım içindeki işbirliği ve iletişimin olumlu yönlerinin içeriğe yararı oldukça fazlaydı
+- **Good Parts:**
+  - Increased communication and trust between team members
+  - Sprint goals were largely completed successfully.
+  - Daily stand-up meetings were productive and problems were resolved quickly.
+  - Making assignments to the right members is an indication that the process will accelerate and progress better.
+  - The positive aspects of collaboration and communication within the team were very beneficial to the content.
 
-- **İyi Gitmeyenler:**
-  - Sürecin belli bir tarihe kadar yavaş ilerlemesi.
-  - Verilen ufak deadlinelerın ufak da olsa sarkması
+- **Bad Parts:**
+  - The slow progress of the process until a certain date.
+  - Small deadlines are exceeded, even if only slightly.
 
-- **İyileştirilebilirler:**
-  - Görev sürelerinin daha gerçekçi planlanması gerekiyor.
+- **They will be improved:**
+  - Duty periods need to be planned more realistically.
   
-**Sonraki Sprint İçin Hedeflenenler:**
-- Oyun içerisindeki karakterin geliştirilmesi konuşuldu.
-- Level design, uı ve ai eklentileri için tarih belirlendi.
+**Targets for the Next Sprint:**
+- The development of the character in the game was discussed.
+- The date has been set for level design, UI and AI add-ons.

@@ -43,13 +43,9 @@
     <h4>TRELLO LINK:</h4>
     <font align="center" color: "green">
   <a href="https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds">
-    <strong>EPIC MINDS Trello</strong>
+    <strong>EPIC MIND'S TRELLO</strong>
   </a>
 </font>
-
-
-
-    
 </div><hr>
 
 

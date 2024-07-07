@@ -113,6 +113,24 @@ These emotions and abilities increase the depth of the game, make the player fee
     <p>Action, Adventure and puzzle lovers.</p>
 </div><hr>
 
+<div align="center">
+   <div style="display-flex" just>
+      <img src="ss1.png" width="300" height="600">
+      <img width="30">
+      <img src="ss2.png" width="300" height="600">
+      <img width="30">
+      <img src="ss8.png" width="300" height="600">
+      <img width="30">
+      <img src="ss9.png" width="300" height="600">
+      <img width="30">
+      <img src="ss10.png" width="300" height="600">
+      <img width="30">
+      <img src="ss11.png" width="300" height="600">
+      <img width="30">
+      <img src="ss12.png" width="300" height="600">
+   </div>
+</div>
+
 <h1 align="center"><i> Sprint 1 </i></h1>
 
 ## Sprint puanlaması
@@ -123,7 +141,19 @@ Takım olarak ilk sprint için görüştüğümüz her başlık ele alındığı
 İletişimin sürekli olması ve ürüne dair herkesin bilgi eşitliğine sahip olması için her an temasta olan bir ekip olmak için çabalıyoruz.
 **Zaman:** Her gün saat  9-10 arası
 **Yer:** Discord Ses Kanalı- WhatsApp  
-BURAYA Toplantı GÖRSELLERi
+<div align="center">
+   <div style="display-flex" just>
+      <img src="ss3.png" width="300" height="600">
+      <img width="30">
+      <img src="ss4.png" width="300" height="600">
+      <img width="30">
+      <img src="ss5.png" width="300" height="600">
+      <img width="30">
+      <img src="ss6.png" width="300" height="600">
+      <img width="30">
+      <img src="ss7.png" width="300" height="600">
+   </div>
+</div>
 
 ### Geliştirme Süreci 
 Her takım üyesi ürün geliştirmenin ve diğer adımların her basamağında rol alacağı için ekiplere ayırma ihtiyacı duymadık.

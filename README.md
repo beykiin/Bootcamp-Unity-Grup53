@@ -158,7 +158,8 @@ Her takım üyesi ürün geliştirmenin ve diğer adımların her basamağında 
       <img src="ss7.png" width="450" height="600">
    </div>
 </div>
-- **Karşılaşılan sorunlar ve engeller**
+
+- Karşılaşılan sorunlar ve engeller
 
 - Ekip motivasyonun başlangıçta tanışma ve diğer stresli etmenlerden( final dönemi, bayram vs) kaynaklı düşük olmasından ötürü ekip içerisinde genel bir iletişim ve kararsızlık süreci yaşandı bu noktada samimiyetle beklentiler ve hassasiyetlerin dile getirilmesi ekibi birbirine güvenen ve destekleyen bir yere taşıdı.
 

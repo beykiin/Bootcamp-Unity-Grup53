@@ -1,7 +1,7 @@
 <div align="center">
     <h1>TEAM LOGO:</h1>
 </div>
-<div align="center"><img src="teamNameLogo.png" width="450" height="350"></div><hr>
+<div align="center"><img src="teamNameLogo.png" width="350" height="250"></div><hr>
 <div align="center">
     <b>SCRUM MASTER:</b>
     ZOZAN AKDOĞAN

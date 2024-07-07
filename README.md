@@ -117,13 +117,7 @@ These emotions and abilities increase the depth of the game, make the player fee
    <div style="display-flex" just>
       <img src="ss1.png" width="900" height="500">
       <img width="30">
-      <img src="ss2.png" width="900" height="500">
-      <img width="30">
-      <img src="ss8.png" width="900" height="500">
-      <img width="30">
       <img src="ss9.png" width="900" height="500">
-      <img width="30">
-      <img src="ss10.jpeg" width="900" height="500">
       <img width="30">
       <img src="ss11.png" width="900" height="500">
    </div>
@@ -139,7 +133,16 @@ Takım olarak ilk sprint için görüştüğümüz her başlık ele alındığı
 İletişimin sürekli olması ve ürüne dair herkesin bilgi eşitliğine sahip olması için her an temasta olan bir ekip olmak için çabalıyoruz.
 **Zaman:** Her gün saat  9-10 arası
 **Yer:** Discord Ses Kanalı- WhatsApp  
-buraya toplantı
+<div align="center">
+   <div style="display-flex" just>
+      <img src="ss2.png" width="900" height="500">
+      <img width="30">
+      <img src="ss8.png" width="900" height="500">
+      <img width="30">
+      <img src="ss10.jpeg" width="900" height="500">
+      
+   </div>
+</div>
 
 ### Geliştirme Süreci 
 Her takım üyesi ürün geliştirmenin ve diğer adımların her basamağında rol alacağı için ekiplere ayırma ihtiyacı duymadık.

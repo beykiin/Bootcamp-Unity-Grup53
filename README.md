@@ -41,7 +41,8 @@
 <div align="center">
     <b>PRODUCT BACKLOGS:</b>
     <h4>TRELLO LINK:</h4>
-    <p>https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds</p>
+    [![trello]]([https://www.linkedin.com/in/yasin-beken-51aa0427b/](https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds))
+    
 </div><hr>
 
 

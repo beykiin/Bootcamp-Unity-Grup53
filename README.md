@@ -21,8 +21,8 @@
 </div>
 <hr>
 <div align="center">
-    <h1>GAME LOGO:</h1>
-</div>
+    <b>GAME LOGO:</b>
+</div><hr>
 
 <div align="center"><img src="gameNameLogo.png" width="500" height="400"></div>
 

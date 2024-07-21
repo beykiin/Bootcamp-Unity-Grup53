@@ -235,7 +235,7 @@ At the end of Sprint 2, the team gathered to review the sprint.
 ### Sprint Retrospective:
 The score for Sprint 2 is a full 8 points.  
 It was emphasized that team members need to be more active in future sprints.  
-Assignments were made until the next sprint.  
+Assignments were made until the next sprint.    
 **Assignment topics:** 
 - Portal, animation, start, AI, sound (Yasin)  
 - Key collection, box movement, health bar (Yağız)  

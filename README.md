@@ -226,7 +226,8 @@ First sprint and game draft
 - **Sprint 2 Board Update:** Sprint 2 Board Screenshot:
 - ![sprint 2 board](https://github.com/user-attachments/assets/73e9bac0-85e6-4084-94cb-296aed9982f3)
 
-- **Product Status:** Screenshots:
+- **Product Status:**
+- 
   
 ### Sprint Review:
 At the end of Sprint 2, the team gathered to review the sprint.  

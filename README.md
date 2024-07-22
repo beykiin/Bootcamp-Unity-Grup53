@@ -227,10 +227,17 @@ First sprint and game draft
 - ![sprint 2 board](https://github.com/user-attachments/assets/73e9bac0-85e6-4084-94cb-296aed9982f3)
 
 - **Product Status:**
-- 
+-
+![ürün-durumu1](https://github.com/user-attachments/assets/8c725baf-5c15-4036-bc76-083f77da1740)
+![ürün-durumu2](https://github.com/user-attachments/assets/12835a96-6e1b-44f5-844a-5f48f4896075)
+![ürün-durumu3](https://github.com/user-attachments/assets/3ba76af1-726a-4955-9ee9-e1463fff2653)
+ ![ürün-durumu4](https://github.com/user-attachments/assets/d4c78390-d110-4c8f-9abb-46c3589a11f2)![ürün-durumu2](https://github.com/user-attachments/assets/c33907fd-8092-42bb-a8a3-7be6ad1bf09b)
+![ürün-durumu5](https://github.com/user-attachments/assets/61cd9976-e7d9-4ca3-a537-bd25564623c5)
+
+
   
 ### Sprint Review:
-At the end of Sprint 2, the team gathered to review the sprint.  
+At the end of Sprint 2, the team gathered to review the sprint. We decided to change the game character in this sprint.
 **Sprint Review Participants:** Yağız, Yasin, Zeynep, Zümra, and Zozan.
 
 ### Sprint Retrospective:

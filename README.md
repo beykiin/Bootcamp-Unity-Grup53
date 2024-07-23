@@ -211,6 +211,10 @@ First sprint and game draft
 ## Sprint 2
 
 **Estimated Points to be Completed in Sprint:** 8 points.
+## Sprint End Evaluation
+
+The target score we set for the sprint was 8 points. Factors affecting the scoring included the completion of level designs, the user interface, the writing of basic movement codes, team initiative, and communication points. Although there were communication issues within the team at the beginning of the sprint, the team’s coming together and closing the gap allowed us to finish the sprint with a full 8 points.
+
 
 **Daily Scrum:** Daily Scrum meetings were held both on WhatsApp and Discord. Meetings were held twice a week on Discord. (A brief communication and accessibility issue was experienced within the team after the first sprint.)
 

@@ -207,3 +207,57 @@ First sprint and game draft
 **Targets for the Next Sprint:**
 - The development of the character in the game was discussed.
 - The date has been set for level design, UI and AI add-ons.
+
+## Sprint 2
+
+**Estimated Points to be Completed in Sprint:** 8 points.
+## Sprint End Evaluation
+
+The target score we set for the sprint was 8 points. Factors affecting the scoring included the completion of level designs, the user interface, the writing of basic movement codes, team initiative, and communication points. Although there were communication issues within the team at the beginning of the sprint, the team’s coming together and closing the gap allowed us to finish the sprint with a full 8 points.
+
+
+**Daily Scrum:** Daily Scrum meetings were held both on WhatsApp and Discord. Meetings were held twice a week on Discord. (A brief communication and accessibility issue was experienced within the team after the first sprint.)
+
+**WhatsApp Group Logic:** The team was divided into two groups for level designs and coding. Level designs were to be completed and sent to the coders by a determined deadline. The coders would then write code based on these designs. Communication continued within the same group.
+
+
+**Meeting and WhatsApp Screenshots:**
+![sprint 2 Wp sohbet](https://github.com/user-attachments/assets/3d6f8304-0b4f-4347-a099-9a2529d6594f)
+![sprint 2 toplantı](https://github.com/user-attachments/assets/9a29edeb-7fe5-435e-9f89-03018084905a)
+
+
+
+- **Sprint 2 Board Update:** Sprint 2 Board Screenshot:
+- ![sprint 2 board](https://github.com/user-attachments/assets/73e9bac0-85e6-4084-94cb-296aed9982f3)
+
+- **Product Status:**
+-
+![ürün-durumu1](https://github.com/user-attachments/assets/8c725baf-5c15-4036-bc76-083f77da1740)
+![ürün-durumu2](https://github.com/user-attachments/assets/12835a96-6e1b-44f5-844a-5f48f4896075)
+![ürün-durumu3](https://github.com/user-attachments/assets/3ba76af1-726a-4955-9ee9-e1463fff2653)
+ ![ürün-durumu4](https://github.com/user-attachments/assets/d4c78390-d110-4c8f-9abb-46c3589a11f2)![ürün-durumu2](https://github.com/user-attachments/assets/c33907fd-8092-42bb-a8a3-7be6ad1bf09b)
+![ürün-durumu5](https://github.com/user-attachments/assets/61cd9976-e7d9-4ca3-a537-bd25564623c5)
+
+
+  
+### Sprint Review:
+At the end of Sprint 2, the team gathered to review the sprint. We decided to change the game character in this sprint.
+**Sprint Review Participants:** Yağız, Yasin, Zeynep, Zümra, and Zozan.
+
+### Sprint Retrospective:
+The score for Sprint 2 is a full 8 points.  
+It was emphasized that team members need to be more active in future sprints.  
+Assignments were made until the next sprint.    
+**Assignment topics:** 
+- Portal, animation, start, AI, sound (Yasin)  
+- Key collection, box movement, health bar (Yağız)  
+- Completion of Level 1 was decided.
+
+### Notes on the Team Between Sprint 1 and Sprint 2
+
+**Good Points:**
+- The team dynamics gained momentum after minor disputes.
+- We became a team that is starting to become more active and take initiatives.
+
+**Bad Points:**
+- Even if our interim goals are completed, there is a tendency to leave some tasks to the last minute within the team.

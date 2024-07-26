@@ -3,7 +3,17 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class DestroyOnPlayerContact : MonoBehaviour
-{ 
+{
+
+    private Renderer objectRenderer;
+    private Collider objectCollider;
+
+    private void Start()
+    {
+        objectRenderer = GetComponent<Renderer>();
+        objectCollider = GetComponent<Collider>();
+    }
+
     private void OnCollisionEnter(Collision collision)
     {
         // Eğer çarpan obje "Player" tag'ine sahipse
@@ -20,12 +30,15 @@ public class DestroyOnPlayerContact : MonoBehaviour
         yield return new WaitForSeconds(2f);
 
         // Objeyi devre dışı bırak (görünmez yap)
-        gameObject.SetActive(false);
+        objectRenderer.enabled = false;
+        objectCollider.enabled = false;
+
 
         // 3 saniye bekle
-        yield return new WaitForSeconds(3f);
+        yield return new WaitForSeconds(4.5f);
 
         // Objeyi tekrar etkinleştir (görünür yap)
-        gameObject.SetActive(true);
+        objectRenderer.enabled = true;
+        objectCollider.enabled = true;
     }
 }

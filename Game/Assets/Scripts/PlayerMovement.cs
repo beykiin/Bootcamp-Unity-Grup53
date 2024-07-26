@@ -13,12 +13,16 @@ public class PlayerMovement : MonoBehaviour
     private float moveInput;
     private float turnInput;
     private bool isGrounded;
+    public Transform characterModel;
 
     void Start()
     {
         rb = GetComponent<Rigidbody>();
         animator = GetComponent<Animator>();
+
     }
+
+
 
     void Update()
     {
@@ -36,6 +40,8 @@ public class PlayerMovement : MonoBehaviour
         {
             animator.SetBool("isRunning", false);
         }
+
+        
 
         // Space tuşu ile zıplama
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
@@ -64,6 +70,7 @@ public class PlayerMovement : MonoBehaviour
         float turn = input * turnSpeed * Time.fixedDeltaTime;
         Quaternion turnRotation = Quaternion.Euler(0f, turn, 0f);
         rb.MoveRotation(rb.rotation * turnRotation);
+
     }
 
     void Jump()

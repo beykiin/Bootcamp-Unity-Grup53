@@ -9,6 +9,7 @@ public class PlayerMovement : MonoBehaviour
     public float jumpForce = 5f;  // Zıplama kuvveti
 
     private Rigidbody rb;
+    private Animator animator;
     private float moveInput;
     private float turnInput;
     private bool isGrounded;
@@ -16,6 +17,7 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody>();
+        animator = GetComponent<Animator>();
     }
 
     void Update()
@@ -25,6 +27,15 @@ public class PlayerMovement : MonoBehaviour
 
         // A ve D ile dönme
         turnInput = Input.GetAxis("Horizontal");
+
+        if(moveInput != 0)
+        {
+            animator.SetBool("isRunning", true);
+        }
+        else
+        {
+            animator.SetBool("isRunning", false);
+        }
 
         // Space tuşu ile zıplama
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
@@ -59,6 +70,7 @@ public class PlayerMovement : MonoBehaviour
     {
         Vector3 jump = new Vector3(0f, jumpForce, 0f);
         rb.AddForce(jump, ForceMode.Impulse);
+        animator.SetBool("isJumping", true);
     }
 
     // Karakterin yere temas edip etmediğini kontrol etmek için
@@ -68,6 +80,7 @@ public class PlayerMovement : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = true;
+            animator.SetBool("isJumping", false);
         }
     }
 

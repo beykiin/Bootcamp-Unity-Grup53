@@ -60,10 +60,42 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/2022.3.25f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Piloto Studio/Readme/Scripts/Editor/ReadmeEditor.cs" />
-    <Compile Include="Assets/Piloto Studio/Readme/Scripts/Editor/ReadmeEditorStyles.cs" />
-    <Compile Include="Assets/Piloto Studio/Readme/Scripts/Editor/ReadmeBehaviourEditor.cs" />
-    <Compile Include="Assets/Piloto Studio/Readme/Scripts/Editor/ReadmeHierarchy.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/PaintTextureEditorWindow.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/CommandArea.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/Tool.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/Utilities.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/Brush Types/FalloffBrush.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/TerrainFormerStyles.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/Shortcut.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/GUIContents.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/CreateTerrainGrid.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/Terrain Commands/TexturePaintCommand.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/Terrain Commands/SmoothCommand.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/CacheBlockArray.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/SavedTool.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/SavedColor.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/TerrainInformation.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/Settings.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/Terrain Commands/FlattenCommand.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/FlattenMode.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/IntBounds.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/GUIUtilities.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/Brush Types/PerlinNoiseBrush.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/AssetWatcher.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/TerrainFormerEditor.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/Brush Types/ImageBrush.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/TerrainCommand.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/TerrainSettings.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/DuplicateTerrainAs.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/Brush.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/Terrain Commands/RaiseOrLowerCommand.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/BrushCollection.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/TerrainMismatchManager.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/Terrain Commands/SetHeightCommand.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/ModeSettings.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/PointRotator.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/Terrain Commands/MouldCommand.cs" />
+    <Compile Include="Assets/TerrainFormer/Editor/BrushSelectionDisplayType.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

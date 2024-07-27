@@ -14,6 +14,9 @@ public class PlayerMovement : MonoBehaviour
     private float turnInput;
     private bool isGrounded;
     public Transform characterModel;
+    public GameObject fireballPrefab;
+    public Transform firePoint;
+    public float fireballSpeed = 10f;
 
     void Start()
     {
@@ -41,13 +44,53 @@ public class PlayerMovement : MonoBehaviour
             animator.SetBool("isRunning", false);
         }
 
-        
+
+        if (Input.GetKeyDown(KeyCode.Z))
+        {
+            Fire();
+        }
+
+
 
         // Space tuşu ile zıplama
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
             Jump();
         }
+    }
+
+
+    void Fire()
+    {
+
+        if (animator != null)
+        {
+            animator.SetTrigger("isTrigger");
+        }
+
+
+        if (fireballPrefab == null || firePoint == null)
+        {
+            return;
+        }
+
+        GameObject fireball = Instantiate(fireballPrefab, firePoint.position, firePoint.rotation);
+
+        Rigidbody rb = fireball.GetComponent<Rigidbody>();
+
+        if (rb != null)
+        {
+            rb.velocity = firePoint.forward * fireballSpeed;
+        }
+
+
+        Destroy(fireball, 1f);
+        //else
+        //{
+
+        //}
+
+
     }
 
     void FixedUpdate()

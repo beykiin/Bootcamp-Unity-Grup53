@@ -149,7 +149,8 @@ PrefabInstance:
       value: Player
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 579018027429041760, guid: cc91c8ba8b9a34f4d99e70d721f60b64, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 7019920669011962644, guid: cc91c8ba8b9a34f4d99e70d721f60b64, type: 3}
       insertIndex: -1
@@ -164,6 +165,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7647134206250791342, guid: cc91c8ba8b9a34f4d99e70d721f60b64, type: 3}
       insertIndex: -1
       addedObject: {fileID: 9033504094806306698}
+    - targetCorrespondingSourceObject: {fileID: 7647134206250791342, guid: cc91c8ba8b9a34f4d99e70d721f60b64, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8635849718793631575}
   m_SourcePrefab: {fileID: 100100000, guid: cc91c8ba8b9a34f4d99e70d721f60b64, type: 3}
 --- !u!1 &3679954181803354694 stripped
 GameObject:
@@ -212,6 +216,7 @@ MonoBehaviour:
   moveSpeed: 5
   turnSpeed: 100
   jumpForce: 50
+  characterModel: {fileID: 0}
 --- !u!136 &9033504094806306698
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -235,6 +240,21 @@ CapsuleCollider:
   m_Height: 1.5874557
   m_Direction: 1
   m_Center: {x: 0, y: 0.77136946, z: 0}
+--- !u!114 &8635849718793631575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3679954181803354694}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6546408117f5ea24fa25bd9eda983395, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fireballPrefab: {fileID: 8145502431507700120, guid: 000832214335ffd4782827d2a4510f4a, type: 3}
+  firePoint: {fileID: 0}
+  fireballSpeed: 10
 --- !u!4 &4060560730035482876 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7019920669011962644, guid: cc91c8ba8b9a34f4d99e70d721f60b64, type: 3}

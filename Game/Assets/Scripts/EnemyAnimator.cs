@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class EnemyAnimator : MonoBehaviour
 {
+    public Transform player;
     private Animator animator;
     private Vector3 lastPosition;
     private float moveThreshold = 0.01f;
@@ -30,5 +31,18 @@ public class EnemyAnimator : MonoBehaviour
         }
 
         lastPosition= currentPosition;
+
+        RotateTowardsPlayer();
+    }
+    private void RotateTowardsPlayer()
+    {
+
+        if (player != null) // Oyuncu referansının atanıp atanmadığını kontrol et
+        {
+            Vector3 direction = (player.position - gameObject.transform.position).normalized;
+            Quaternion lookRotation = Quaternion.LookRotation(new Vector3(direction.x, 0, direction.z));
+            gameObject.transform.rotation = Quaternion.Slerp(gameObject.transform.rotation, lookRotation, Time.deltaTime * 5f);
+        }
+        
     }
 }

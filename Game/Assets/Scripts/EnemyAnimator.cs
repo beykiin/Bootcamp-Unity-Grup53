@@ -37,7 +37,7 @@ public class EnemyAnimator : MonoBehaviour
     private void RotateTowardsPlayer()
     {
 
-        if (player != null) // Oyuncu referansının atanıp atanmadığını kontrol et
+        if (player != null) 
         {
             Vector3 direction = (player.position - gameObject.transform.position).normalized;
             Quaternion lookRotation = Quaternion.LookRotation(new Vector3(direction.x, 0, direction.z));

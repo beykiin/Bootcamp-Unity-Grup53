@@ -11,6 +11,7 @@ public class PlayerHealth : MonoBehaviour
     private Animator animator;
 
     public GameObject birthEffectPrefab;
+    private ShieldSkill shieldSkill;
 
     private void Start()
     {
@@ -18,16 +19,30 @@ public class PlayerHealth : MonoBehaviour
         başlangıçKonumu = transform.position;
         ResetHealth();
         animator= GetComponent<Animator>();
+        shieldSkill = GetComponent<ShieldSkill>();
     }
 
     public void TakeDamage(int damage)
     {
+        if (shieldSkill != null && shieldSkill.IsShieldActive())
+        {
+            damage /= 2;
+            
+        }
+        
+        
+
         currentHealth -= damage;
 
         if (currentHealth <= 0)
         {
             Die();
         }
+    }
+
+    public void Heal(int amount)
+    {
+        currentHealth = Mathf.Min(currentHealth + amount, maxHealth);
     }
 
     void Die()

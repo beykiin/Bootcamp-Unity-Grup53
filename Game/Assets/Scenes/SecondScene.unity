@@ -4759,7 +4759,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: afc301319d5828a4bb3785374dafcb96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attackRange: 3
+  attackRange: 2
   attackDamage: 5
   attackRate: 1
 --- !u!114 &303107855
@@ -39218,6 +39218,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 3679954181803354694, guid: 77ae03104cfda42879838c411595f075, type: 3}
       insertIndex: -1
       addedObject: {fileID: 4992831132746520235}
+    - targetCorrespondingSourceObject: {fileID: 3679954181803354694, guid: 77ae03104cfda42879838c411595f075, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4992831132746520240}
+    - targetCorrespondingSourceObject: {fileID: 3679954181803354694, guid: 77ae03104cfda42879838c411595f075, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4992831132746520241}
     - targetCorrespondingSourceObject: {fileID: 349115900571242533, guid: 77ae03104cfda42879838c411595f075, type: 3}
       insertIndex: -1
       addedObject: {fileID: 306901953}
@@ -39260,6 +39266,35 @@ MonoBehaviour:
   attackDamage: 10
   swordCollider: {fileID: 306901953}
   attackAnimationTrigger: Attack
+--- !u!114 &4992831132746520240
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4992831132746520229}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a58539ae5e02aba4a9098c0c7371e81e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shieldPrefab: {fileID: 1289543790355709915, guid: b99922c2f59b1a542bdd06ae8bee47ae, type: 3}
+  shieldCooldown: 3
+  shieldDuration: 7
+--- !u!114 &4992831132746520241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4992831132746520229}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2617b212f1e75a43aa130edaae45167, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  healAmount: 20
+  healEffectPrefab: {fileID: 7986504087968017091, guid: 12a56ee4630040c4eb17ae9707ed4cef, type: 3}
 --- !u!1001 &5478794687432661840
 PrefabInstance:
   m_ObjectHideFlags: 0

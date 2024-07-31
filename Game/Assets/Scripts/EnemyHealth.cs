@@ -19,7 +19,7 @@ public class EnemyHealth : MonoBehaviour
     {
 
         if (isDead) return;
-
+        Debug.Log(currentHealth);
         currentHealth -= amount;
         if (currentHealth <= 0)
         {

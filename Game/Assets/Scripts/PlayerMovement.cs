@@ -8,7 +8,7 @@ public class PlayerMovement : MonoBehaviour
     public float turnSpeed = 100f;
     public float jumpForce = 5f;
     public float angerSkillDuration = 2f;
-    public float attackDamage = 20f;
+    public float attackDamage = 50f;
     public Collider swordCollider;
 
     private Rigidbody rb;
@@ -21,6 +21,9 @@ public class PlayerMovement : MonoBehaviour
     public Transform firePoint;
     public float fireballSpeed = 10f;
     private bool isAngerSkillActive = false;
+
+    public float angerSkillCooldown = 10f;
+    private float lastAngerSkillTime = -10f;
 
 
     void Start()
@@ -61,7 +64,7 @@ public class PlayerMovement : MonoBehaviour
 
 
 
-        // Space tuşu ile zıplama
+        
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
             Jump();
@@ -71,6 +74,13 @@ public class PlayerMovement : MonoBehaviour
 
     void Fire()
     {
+
+        if (Time.time - lastAngerSkillTime < angerSkillCooldown)
+        {
+            return; 
+        }
+
+        lastAngerSkillTime = Time.time;
 
         if (animator != null)
         {
@@ -149,10 +159,10 @@ public class PlayerMovement : MonoBehaviour
         animator.SetBool("isJumping", true);
     }
 
-    // Karakterin yere temas edip etmediğini kontrol etmek için
+    
     void OnCollisionStay(Collision collision)
     {
-        // Yere temas ediyorsa isGrounded true
+        
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = true;
@@ -162,7 +172,7 @@ public class PlayerMovement : MonoBehaviour
 
     void OnCollisionExit(Collision collision)
     {
-        // Yerden ayrıldığında isGrounded false
+        
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = false;

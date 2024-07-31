@@ -110,6 +110,7 @@
     <Compile Include="Assets\Scripts\PlayerHealth.cs" />
     <Compile Include="Assets\TowerDefence_Vsquad\Scripts\Tower.cs" />
     <Compile Include="Assets\Scripts\EnemyAnimator.cs" />
+    <Compile Include="Assets\Scripts\PlayerDefaultSkill.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
     <Compile Include="Assets\Scripts\EnemyAttack.cs" />
     <Compile Include="Assets\TowerDefence_Vsquad\Scripts\TowerBullet.cs" />

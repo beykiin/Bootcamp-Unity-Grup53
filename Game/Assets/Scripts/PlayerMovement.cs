@@ -6,7 +6,10 @@ public class PlayerMovement : MonoBehaviour
 {
     public float moveSpeed = 5f;
     public float turnSpeed = 100f;
-    public float jumpForce = 5f;  // Zıplama kuvveti
+    public float jumpForce = 5f;
+    public float angerSkillDuration = 2f;
+    public float attackDamage = 20f;
+    public Collider swordCollider;
 
     private Rigidbody rb;
     private Animator animator;
@@ -17,22 +20,28 @@ public class PlayerMovement : MonoBehaviour
     public GameObject fireballPrefab;
     public Transform firePoint;
     public float fireballSpeed = 10f;
+    private bool isAngerSkillActive = false;
+
 
     void Start()
     {
         rb = GetComponent<Rigidbody>();
         animator = GetComponent<Animator>();
 
+        if (swordCollider != null)
+        {
+            swordCollider.enabled = false; 
+        }
     }
 
 
 
     void Update()
     {
-        // W ve S ile ileri-geri hareket
+        
         moveInput = Input.GetAxis("Vertical");
 
-        // A ve D ile dönme
+        
         turnInput = Input.GetAxis("Horizontal");
 
         if(moveInput != 0)
@@ -85,20 +94,37 @@ public class PlayerMovement : MonoBehaviour
 
 
         Destroy(fireball, 1f);
-        //else
-        //{
+        StartCoroutine(ActivateAngerSkill());
 
-        //}
 
 
     }
 
+    IEnumerator ActivateAngerSkill()
+    {
+        isAngerSkillActive = true;
+
+        if (swordCollider != null)
+        {
+            swordCollider.enabled = true; 
+        }
+
+        yield return new WaitForSeconds(angerSkillDuration);
+
+        isAngerSkillActive = false;
+
+        if (swordCollider != null)
+        {
+            swordCollider.enabled = false; 
+        }
+    }
+
     void FixedUpdate()
     {
-        // Hareket
+        
         MoveCharacter(moveInput);
 
-        // Dönme
+        
         TurnCharacter(turnInput);
     }
 
@@ -140,6 +166,18 @@ public class PlayerMovement : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = false;
+        }
+    }
+
+    void OnTriggerEnter(Collider other)
+    {
+        if (isAngerSkillActive && other.CompareTag("Enemy"))
+        {
+            EnemyHealth enemyHealth = other.GetComponent<EnemyHealth>();
+            if (enemyHealth != null)
+            {
+                enemyHealth.TakeDamage(attackDamage);
+            }
         }
     }
 }

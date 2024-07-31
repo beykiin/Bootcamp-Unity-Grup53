@@ -3361,6 +3361,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: mini simple skeleton demo_01
       objectReference: {fileID: 0}
+    - target: {fileID: 3136820629370392942, guid: 62dcba975a0bdfe47bef48ea43049412, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 3854269363171675655, guid: 62dcba975a0bdfe47bef48ea43049412, type: 3}
       propertyPath: m_LocalPosition.x
       value: 580.57
@@ -3442,6 +3446,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 3136820629370392942, guid: 62dcba975a0bdfe47bef48ea43049412, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2006809004}
+    - targetCorrespondingSourceObject: {fileID: 3136820629370392942, guid: 62dcba975a0bdfe47bef48ea43049412, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2006809008}
+    - targetCorrespondingSourceObject: {fileID: 3136820629370392942, guid: 62dcba975a0bdfe47bef48ea43049412, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2006809011}
   m_SourcePrefab: {fileID: 100100000, guid: 62dcba975a0bdfe47bef48ea43049412, type: 3}
 --- !u!1001 &198245548
 PrefabInstance:
@@ -5031,6 +5041,32 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c3938dfcbb55d4ddc83a5e41db0ac522, type: 3}
+--- !u!1 &306901951 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 349115900571242533, guid: 77ae03104cfda42879838c411595f075, type: 3}
+  m_PrefabInstance: {fileID: 4992831132746520228}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &306901953
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 306901951}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.24791008, y: 2.7769904, z: 0.08871158}
+  m_Center: {x: 0.002394617, y: -0.12252972, z: -0.0000025559798}
 --- !u!1001 &308693618
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9864,6 +9900,34 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 2471188}
+--- !u!114 &595983439
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 595983432}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59800ebc8f0beee45a3c83025732e43a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 100
+--- !u!114 &595983442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 595983432}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afc301319d5828a4bb3785374dafcb96, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackRange: 3
+  attackDamage: 10
+  attackRate: 1
 --- !u!1 &596703383 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: c8dbbc4034e9f4388a397ca32257e5d7, type: 3}
@@ -10031,6 +10095,34 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 2471188}
+--- !u!114 &608302873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 608302866}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59800ebc8f0beee45a3c83025732e43a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 100
+--- !u!114 &608302876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 608302866}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afc301319d5828a4bb3785374dafcb96, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackRange: 3
+  attackDamage: 10
+  attackRate: 1
 --- !u!1001 &608359814
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19709,6 +19801,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: mini simple skeleton demo_01 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3136820629370392942, guid: 62dcba975a0bdfe47bef48ea43049412, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 3854269363171675655, guid: 62dcba975a0bdfe47bef48ea43049412, type: 3}
       propertyPath: m_LocalPosition.x
       value: 560.29
@@ -19790,6 +19886,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 3136820629370392942, guid: 62dcba975a0bdfe47bef48ea43049412, type: 3}
       insertIndex: -1
       addedObject: {fileID: 595983433}
+    - targetCorrespondingSourceObject: {fileID: 3136820629370392942, guid: 62dcba975a0bdfe47bef48ea43049412, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 595983439}
+    - targetCorrespondingSourceObject: {fileID: 3136820629370392942, guid: 62dcba975a0bdfe47bef48ea43049412, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 595983442}
   m_SourcePrefab: {fileID: 100100000, guid: 62dcba975a0bdfe47bef48ea43049412, type: 3}
 --- !u!1001 &1113440943
 PrefabInstance:
@@ -36768,6 +36870,34 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 112
   m_CollisionDetection: 0
+--- !u!114 &2006809008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2006808999}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59800ebc8f0beee45a3c83025732e43a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 100
+--- !u!114 &2006809011
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2006808999}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afc301319d5828a4bb3785374dafcb96, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackRange: 3
+  attackDamage: 10
+  attackRate: 1
 --- !u!1 &2011394617 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4423045620967985251, guid: 8c436475ecc724e0e891973679762522, type: 3}
@@ -36903,6 +37033,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: mini simple skeleton demo_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3136820629370392942, guid: 62dcba975a0bdfe47bef48ea43049412, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 3854269363171675655, guid: 62dcba975a0bdfe47bef48ea43049412, type: 3}
       propertyPath: m_LocalPosition.x
       value: 561.165
@@ -36984,6 +37118,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 3136820629370392942, guid: 62dcba975a0bdfe47bef48ea43049412, type: 3}
       insertIndex: -1
       addedObject: {fileID: 608302867}
+    - targetCorrespondingSourceObject: {fileID: 3136820629370392942, guid: 62dcba975a0bdfe47bef48ea43049412, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 608302873}
+    - targetCorrespondingSourceObject: {fileID: 3136820629370392942, guid: 62dcba975a0bdfe47bef48ea43049412, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 608302876}
   m_SourcePrefab: {fileID: 100100000, guid: 62dcba975a0bdfe47bef48ea43049412, type: 3}
 --- !u!1 &2022423400 stripped
 GameObject:
@@ -38938,6 +39078,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 478379579}
     - target: {fileID: 710255307313672431, guid: 77ae03104cfda42879838c411595f075, type: 3}
+      propertyPath: attackDamage
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 710255307313672431, guid: 77ae03104cfda42879838c411595f075, type: 3}
+      propertyPath: swordCollider
+      value: 
+      objectReference: {fileID: 306901953}
+    - target: {fileID: 710255307313672431, guid: 77ae03104cfda42879838c411595f075, type: 3}
       propertyPath: characterModel
       value: 
       objectReference: {fileID: 2471188}
@@ -38948,6 +39096,10 @@ PrefabInstance:
     - target: {fileID: 3679954181803354694, guid: 77ae03104cfda42879838c411595f075, type: 3}
       propertyPath: m_Name
       value: FemaleCharacterPBR
+      objectReference: {fileID: 0}
+    - target: {fileID: 3711625029534964777, guid: 77ae03104cfda42879838c411595f075, type: 3}
+      propertyPath: m_Constraints
+      value: 112
       objectReference: {fileID: 0}
     - target: {fileID: 4060560730035482876, guid: 77ae03104cfda42879838c411595f075, type: 3}
       propertyPath: m_LocalPosition.x
@@ -39027,6 +39179,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 3679954181803354694, guid: 77ae03104cfda42879838c411595f075, type: 3}
       insertIndex: -1
       addedObject: {fileID: 4992831132746520230}
+    - targetCorrespondingSourceObject: {fileID: 349115900571242533, guid: 77ae03104cfda42879838c411595f075, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 306901953}
     - targetCorrespondingSourceObject: {fileID: 41894311179042352, guid: 77ae03104cfda42879838c411595f075, type: 3}
       insertIndex: -1
       addedObject: {fileID: 359540960}
@@ -39050,6 +39205,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 100
   currentHealth: 0
+  birthEffectPrefab: {fileID: 3377181292992421420, guid: 48c5715f9603c3842a353516a8baefbb, type: 3}
 --- !u!1001 &5478794687432661840
 PrefabInstance:
   m_ObjectHideFlags: 0

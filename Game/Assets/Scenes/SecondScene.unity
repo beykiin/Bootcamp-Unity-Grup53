@@ -4759,13 +4759,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: afc301319d5828a4bb3785374dafcb96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
+
   attackRange: 2
   attackDamage: 5
-=======
+
   attackRange: 3
   attackDamage: 10
->>>>>>> 28177e9d8d020bae460a7568ad0761d3b83b3b89
+
   attackRate: 1
 --- !u!114 &303107855
 MonoBehaviour:
@@ -4889,17 +4889,17 @@ CapsuleCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
-<<<<<<< HEAD
+
   m_Radius: 0.45349103
   m_Height: 1.5054581
   m_Direction: 1
   m_Center: {x: -0.01675415, y: 0.7352935, z: -0.006824553}
-=======
+
   m_Radius: 0.7154236
   m_Height: 1.5054581
   m_Direction: 1
   m_Center: {x: -0.01675415, y: 0.7352935, z: 0}
->>>>>>> 28177e9d8d020bae460a7568ad0761d3b83b3b89
+
 --- !u!114 &303107861
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14883,7 +14883,7 @@ PrefabInstance:
     m_TransformParent: {fileID: 1853567855}
     m_Modifications:
     - target: {fileID: 211060118000718597, guid: a8cc610235c43164cb7d9665673d0322, type: 3}
-<<<<<<< HEAD
+
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
@@ -14896,8 +14896,7 @@ PrefabInstance:
       value: 1.8
       objectReference: {fileID: 0}
     - target: {fileID: 211060118000718597, guid: a8cc610235c43164cb7d9665673d0322, type: 3}
-=======
->>>>>>> 28177e9d8d020bae460a7568ad0761d3b83b3b89
+
       propertyPath: m_LocalPosition.x
       value: -0.074261285
       objectReference: {fileID: 0}
@@ -39190,13 +39189,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 478379579}
     - target: {fileID: 710255307313672431, guid: 77ae03104cfda42879838c411595f075, type: 3}
-<<<<<<< HEAD
+
       propertyPath: attackDamage
       value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 710255307313672431, guid: 77ae03104cfda42879838c411595f075, type: 3}
-=======
->>>>>>> 28177e9d8d020bae460a7568ad0761d3b83b3b89
+
       propertyPath: swordCollider
       value: 
       objectReference: {fileID: 306901953}

@@ -13,6 +13,22 @@ public class DoorController : MonoBehaviour
     private bool isMoving = false; // Kapının hareket edip etmediğini kontrol eder
     private bool hasKey = false; // Anahtarın karakterde olup olmadığını kontrol eder
 
+    private GameObject portalObject; // Portal tagine sahip game object
+
+    void Start()
+    {
+        // "Portal" tagine sahip objeyi bul ve gizle
+        portalObject = GameObject.FindWithTag("Portal");
+        if (portalObject != null)
+        {
+            portalObject.SetActive(false);
+        }
+        else
+        {
+            Debug.LogError("Portal tagine sahip obje bulunamadı!");
+        }
+    }
+
     void Update()
     {
         // Anahtar karakterde mi kontrol et
@@ -28,8 +44,12 @@ public class DoorController : MonoBehaviour
                 Debug.Log("Kapı hareket etmeye başladı");
                 StartCoroutine(MoveDoor());
                 keyObject.SetActive(false);
-                // Burada AI takip kodunuzu ekleyebilirsiniz, örneğin:
-                // EnableDogAI();
+                
+                // Portal objesini görünür yap
+                if (portalObject != null)
+                {
+                    portalObject.SetActive(true);
+                }
             }
         }
     }

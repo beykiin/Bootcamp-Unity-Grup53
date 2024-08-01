@@ -9,7 +9,6 @@ public class DoorController : MonoBehaviour
     public float targetY = 8.45f; // Kapının ulaşacağı y ekseni
     public float moveSpeed = 2f; // Kapının hareket hızı
     public float interactionDistance = 2f; // Kapıya ne kadar yaklaşıldığında etkileşime geçilebileceği mesafe
-    public DogFollow dogFollow; // Köpeğin takip script'i
 
     private bool isMoving = false; // Kapının hareket edip etmediğini kontrol eder
     private bool hasKey = false; // Anahtarın karakterde olup olmadığını kontrol eder
@@ -18,13 +17,20 @@ public class DoorController : MonoBehaviour
     {
         // Anahtar karakterde mi kontrol et
         hasKey = Vector3.Distance(keyObject.transform.position, player.position) < interactionDistance;
+        Debug.Log("Has Key: " + hasKey);
 
         // E tuşuna basıldığında, karakter kapının yakınındayken ve anahtar yanındayken kapıyı hareket ettir
-        if (Input.GetKeyDown(KeyCode.E) && !isMoving && Vector3.Distance(transform.position, player.position) < interactionDistance && hasKey)
+        if (Input.GetKeyDown(KeyCode.E))
         {
-            StartCoroutine(MoveDoor());
-            keyObject.SetActive(false);
-            dogFollow.shouldFollow = true; // Köpeğin takip etmeye başlaması
+            Debug.Log("E tuşuna basıldı");
+            if (!isMoving && Vector3.Distance(transform.position, player.position) < interactionDistance && hasKey)
+            {
+                Debug.Log("Kapı hareket etmeye başladı");
+                StartCoroutine(MoveDoor());
+                keyObject.SetActive(false);
+                // Burada AI takip kodunuzu ekleyebilirsiniz, örneğin:
+                // EnableDogAI();
+            }
         }
     }
 
@@ -42,5 +48,6 @@ public class DoorController : MonoBehaviour
 
         transform.position = targetPosition;
         isMoving = false;
+        Debug.Log("Kapı hareketi tamamlandı");
     }
 }

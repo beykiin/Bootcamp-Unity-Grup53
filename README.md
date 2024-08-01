@@ -115,12 +115,10 @@ These emotions and abilities increase the depth of the game, make the player fee
 
 <div align="center">
    <div style="display-flex" just>
-      <img src="ss1.png" width="900" height="500">
-      <img src="ss9.png" width="900" height="500">
       <img src="character1.png" width="900" height="500">
-      <img src="ss11.png" width="900" height="500">
-      <img src="ss11.png" width="900" height="500">
-    
+      <img src="kod1.png" width="900" height="500">
+      <img src="kod2.png" width="900" height="500">
+     <img src="kod3.png" width="900" height="500">
    </div>
 </div>
 
@@ -269,21 +267,33 @@ Assignments were made until the next sprint.
 ## Estimated Points for Completion: 9 Points
 The point logic includes: health and rage skills, animations, transitions, sounds, Cinemachine, remaining code, overall evaluation, team communication, and activity.
 
+<div align="center">
+   <div style="display: flex; justify-content: center;">
+      <img src="https://github.com/user-attachments/assets/92037e57-e572-4dd0-ac91-5be37b359aa3" width="900" height="500">
+   </div>
+</div>
+
 ## Daily Scrum
 Daily Scrum meetings were conducted on Discord between 9-10 am or via WhatsApp if a suitable time was not found.
-![meeting1](https://github.com/user-attachments/assets/8c0dbaf3-02f8-4e63-b410-4219ac027876)
-![meeting2](https://github.com/user-attachments/assets/d785e183-0dbf-4dd3-9644-96c25cc8936b)
-![meeting3](https://github.com/user-attachments/assets/c6a52111-ee62-4dd7-a1c7-ef028e6b2884)
-![meeting4](https://github.com/user-attachments/assets/2ca73b8f-b084-47a5-85bc-15600498e4fd)
-![meeting5](https://github.com/user-attachments/assets/9eceb012-a90f-4d85-b2c0-8f97e35c777b)
+<div align="center">
+   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+      <img src="https://github.com/user-attachments/assets/8c0dbaf3-02f8-4e63-b410-4219ac027876" width="900" height="500">
+      <img src="https://github.com/user-attachments/assets/d785e183-0dbf-4dd3-9644-96c25cc8936b" width="900" height="500">
+      <img src="https://github.com/user-attachments/assets/c6a52111-ee62-4dd7-a1c7-ef028e6b2884" width="900" height="500">
+   </div>
+</div>
 ## Product Status
 
-![portal](https://github.com/user-attachments/assets/ae0de995-313f-4a58-9329-baf958b529a7)
-![portal game](https://github.com/user-attachments/assets/1bb99296-851a-40e5-b9a9-833de192d824)
-![game3](https://github.com/user-attachments/assets/02e6aec1-a3ec-478c-864b-823bbaa64db2)
-![game2](https://github.com/user-attachments/assets/2a09ef8d-6f34-42a7-88d8-93767781b6fa)
-![game1](https://github.com/user-attachments/assets/2fa997c3-0912-4124-a3f1-62370692e80d)
-![treasure](https://github.com/user-attachments/assets/dc4acf88-9242-41ee-b2c7-12b792f157a1)
+<div align="center">
+   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+      <img src="https://github.com/user-attachments/assets/ae0de995-313f-4a58-9329-baf958b529a7" width="900" height="500">
+      <img src="https://github.com/user-attachments/assets/1bb99296-851a-40e5-b9a9-833de192d824" width="900" height="500">
+      <img src="https://github.com/user-attachments/assets/02e6aec1-a3ec-478c-864b-823bbaa64db2" width="900" height="500">
+      <img src="https://github.com/user-attachments/assets/2a09ef8d-6f34-42a7-88d8-93767781b6fa" width="900" height="500">
+      <img src="https://github.com/user-attachments/assets/2fa997c3-0912-4124-a3f1-62370692e80d" width="900" height="500">
+      <img src="https://github.com/user-attachments/assets/dc4acf88-9242-41ee-b2c7-12b792f157a1" width="900" height="500">
+   </div>
+</div>
 
 
 ### Final Video:

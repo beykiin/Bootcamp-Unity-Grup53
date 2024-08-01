@@ -8,6 +8,9 @@ TagManager:
   - Enemy
   - Key
   - Box
+  - Castle
+  - enemyBug
+  - Portal
   layers:
   - Default
   - TransparentFX

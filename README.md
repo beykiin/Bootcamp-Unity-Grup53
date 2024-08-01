@@ -36,7 +36,7 @@
 </div><hr>
 <div align="center">
     <b>GAME NAME:</b>
-    SOUL HARMONIZER
+    GUARDIANS OF SOUL
 </div><hr>
 <div align="center">
     <b>PRODUCT BACKLOGS:</b>
@@ -50,12 +50,12 @@
 
 <div align="center">
     <h3>PRODUCT DESCRIPTION:</h3>
-    <p>Soul Harmonizer is a 3D platformer and puzzle experience that is shaped by the power of emotions. At the center of the game are the character's abilities, which change according to the emotions they feel, and how they interact in the game world. The game has a specific storyline and offers rich content that will challenge players both mentally and emotionally throughout the various levels.</p>
+    <p>Guardians Of Soul is a 3D platformer and puzzle experience that is shaped by the power of emotions. At the center of the game are the character's abilities, which change according to the emotions they feel, and how they interact in the game world. The game has a specific storyline and offers rich content that will challenge players both mentally and emotionally throughout the various levels.</p>
 </div><hr>
 
 <div align="center">
     <h3>GAME DESCRIPTION:</h3>
-    <p>Soul Harmonizer is a 3D action-adventure game full of emotional exploration that takes players on the adventure of an amnesiac main character. The game begins with the main character opening his eyes in a forest. The character reinvents himself and improves his abilities through the various emotions he discovers over time.</p>
+    <p>Guardians Of Soul is a 3D action-adventure game full of emotional exploration that takes players on the adventure of an amnesiac main character. The game begins with the main character opening his eyes in a forest. The character reinvents himself and improves his abilities through the various emotions he discovers over time.</p>
     <img height="50">
     <div align="start"><b>Emotional Explorations and Skill Development:</b> 
     The main character explores emotions such as anger, compassion, and fear. For example, he strengthens his combat abilities by controlling his anger, or uses his compassion to gain forest animals as pets.</div>
@@ -103,7 +103,7 @@ These emotions and abilities increase the depth of the game, make the player fee
 </div><hr>
 <div align="center">
     <h3>PRODUCT DESCRIPTION:</h3>
-    <p>Soul Harmonizer is a 3D platformer and puzzle experience that is shaped by the power of emotions. At the center of the game are the character's abilities, which change according to the emotions they feel, and how they interact in the game world. The game has a specific storyline and offers rich content that will challenge players both mentally and emotionally throughout the various levels.</p>
+    <p>Guardians Of soul is a 3D platformer and puzzle experience that is shaped by the power of emotions. At the center of the game are the character's abilities, which change according to the emotions they feel, and how they interact in the game world. The game has a specific storyline and offers rich content that will challenge players both mentally and emotionally throughout the various levels.</p>
 </div><hr>
 
 
@@ -117,8 +117,10 @@ These emotions and abilities increase the depth of the game, make the player fee
    <div style="display-flex" just>
       <img src="ss1.png" width="900" height="500">
       <img src="ss9.png" width="900" height="500">
+      <img src="character1.png" width="900" height="500">
       <img src="ss11.png" width="900" height="500">
-      <img src="ss12.png" width="900" height="500">
+      <img src="ss11.png" width="900" height="500">
+    
    </div>
 </div>
 
@@ -262,3 +264,47 @@ Assignments were made until the next sprint.
 **Bad Points:**
 - Even if our interim goals are completed, there is a tendency to leave some tasks to the last minute within the team.
  
+# SPRINT 3
+
+## Estimated Points for Completion: 9 Points
+The point logic includes: health and rage skills, animations, transitions, sounds, Cinemachine, remaining code, overall evaluation, team communication, and activity.
+
+## Daily Scrum
+Daily Scrum meetings were conducted on Discord between 9-10 am or via WhatsApp if a suitable time was not found.
+![meeting1](https://github.com/user-attachments/assets/8c0dbaf3-02f8-4e63-b410-4219ac027876)
+![meeting2](https://github.com/user-attachments/assets/d785e183-0dbf-4dd3-9644-96c25cc8936b)
+![meeting3](https://github.com/user-attachments/assets/c6a52111-ee62-4dd7-a1c7-ef028e6b2884)
+![meeting4](https://github.com/user-attachments/assets/2ca73b8f-b084-47a5-85bc-15600498e4fd)
+![meeting5](https://github.com/user-attachments/assets/9eceb012-a90f-4d85-b2c0-8f97e35c777b)
+## Product Status
+
+![portal](https://github.com/user-attachments/assets/ae0de995-313f-4a58-9329-baf958b529a7)
+![portal game](https://github.com/user-attachments/assets/1bb99296-851a-40e5-b9a9-833de192d824)
+![game3](https://github.com/user-attachments/assets/02e6aec1-a3ec-478c-864b-823bbaa64db2)
+![game2](https://github.com/user-attachments/assets/2a09ef8d-6f34-42a7-88d8-93767781b6fa)
+![game1](https://github.com/user-attachments/assets/2fa997c3-0912-4124-a3f1-62370692e80d)
+![treasure](https://github.com/user-attachments/assets/dc4acf88-9242-41ee-b2c7-12b792f157a1)
+
+
+### Final Video:
+
+## SPRINT REVIEW
+We should congratulate ourselves for the dedication and effort put in by the team of 5 throughout the process.
+During this period, we completed:
+- 1 character design
+- 3 different scenes
+- Numerous mechanical codes
+- 3D assets
+- Camera integration
+- NPCs
+- Enemies
+- UI designs
+- AI additions
+
+24 Backlog points were completed.
+
+### Sprint Review Participants:
+Yağız, Yasin, Zeynep, Zozan, and Zümra
+
+## Sprint Retrospective
+We discussed completing the project after the academic period.

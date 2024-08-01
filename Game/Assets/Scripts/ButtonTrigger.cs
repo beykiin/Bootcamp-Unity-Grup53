@@ -6,6 +6,12 @@ public class ButtonTrigger : MonoBehaviour
 {
     public List<GameObject> objectsToReveal; // Gizli olan ve görünür yapılacak nesnelerin listesi
 
+    void Start()
+    {
+        // Oyun başladığında nesneleri gizle
+        HideObjects();
+    }
+
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Player") || other.CompareTag("Box")) // Butona basacak olan nesneler

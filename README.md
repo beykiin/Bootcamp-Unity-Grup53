@@ -261,3 +261,4 @@ Assignments were made until the next sprint.
 
 **Bad Points:**
 - Even if our interim goals are completed, there is a tendency to leave some tasks to the last minute within the team.
+ 

@@ -148,7 +148,6 @@ Since each team member will take part in every step of product development and o
 - We decided to go through a process that is democratic and supports voting integrity.
 <div align="center">
    <div style="display-flex" just>
-      <img src="ss3.png" width="900" height="500">
       <img width="30">
       <img src="ss4.png" width="350" height="600">
       <img src="ss5.png" width="350" height="600">
@@ -163,7 +162,8 @@ Since each team member will take part in every step of product development and o
 
 ### Notes and Additional Information
 
-- All tasks and progress will be tracked on the [Trello](https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds)
+- All tasks and progress will be tracked on the
+-  [Trello](https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds)
 - Each sprint will be uploaded at least one day before the sprint date and we will have a wider time frame to talk about it.
   
 # Sprint Review 
@@ -222,21 +222,34 @@ The target score we set for the sprint was 8 points. Factors affecting the scori
 
 
 **Meeting and WhatsApp Screenshots:**
-![sprint 2 Wp sohbet](https://github.com/user-attachments/assets/3d6f8304-0b4f-4347-a099-9a2529d6594f)
-![sprint 2 toplantı](https://github.com/user-attachments/assets/9a29edeb-7fe5-435e-9f89-03018084905a)
+<div align="center">
+   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+      <img src="https://github.com/user-attachments/assets/3d6f8304-0b4f-4347-a099-9a2529d6594f" width="900" height="500">
+      <img src="https://github.com/user-attachments/assets/9a29edeb-7fe5-435e-9f89-03018084905a" width="900" height="500">
+   </div>
+</div>
 
 
 
 - **Sprint 2 Board Update:** Sprint 2 Board Screenshot:
-- ![sprint 2 board](https://github.com/user-attachments/assets/73e9bac0-85e6-4084-94cb-296aed9982f3)
+- <div align="center">
+   <img src="https://github.com/user-attachments/assets/73e9bac0-85e6-4084-94cb-296aed9982f3" width="900" height="500">
+</div>
+
 
 - **Product Status:**
 -
-![ürün-durumu1](https://github.com/user-attachments/assets/8c725baf-5c15-4036-bc76-083f77da1740)
-![ürün-durumu2](https://github.com/user-attachments/assets/12835a96-6e1b-44f5-844a-5f48f4896075)
-![ürün-durumu3](https://github.com/user-attachments/assets/3ba76af1-726a-4955-9ee9-e1463fff2653)
- ![ürün-durumu4](https://github.com/user-attachments/assets/d4c78390-d110-4c8f-9abb-46c3589a11f2)![ürün-durumu2](https://github.com/user-attachments/assets/c33907fd-8092-42bb-a8a3-7be6ad1bf09b)
-![ürün-durumu5](https://github.com/user-attachments/assets/61cd9976-e7d9-4ca3-a537-bd25564623c5)
+<div align="center">
+   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+      <img src="https://github.com/user-attachments/assets/8c725baf-5c15-4036-bc76-083f77da1740" width="900" height="500">
+      <img src="https://github.com/user-attachments/assets/12835a96-6e1b-44f5-844a-5f48f4896075" width="900" height="500">
+      <img src="https://github.com/user-attachments/assets/3ba76af1-726a-4955-9ee9-e1463fff2653" width="900" height="500">
+      <img src="https://github.com/user-attachments/assets/d4c78390-d110-4c8f-9abb-46c3589a11f2" width="900" height="500">
+      <img src="https://github.com/user-attachments/assets/c33907fd-8092-42bb-a8a3-7be6ad1bf09b" width="900" height="500">
+      <img src="https://github.com/user-attachments/assets/61cd9976-e7d9-4ca3-a537-bd25564623c5" width="900" height="500">
+   </div>
+</div>
+
 
 
   
@@ -267,6 +280,7 @@ Assignments were made until the next sprint.
 ## Estimated Points for Completion: 9 Points
 The point logic includes: health and rage skills, animations, transitions, sounds, Cinemachine, remaining code, overall evaluation, team communication, and activity.
 
+- **Sprint 3 Board Update:**
 <div align="center">
    <div style="display: flex; justify-content: center;">
       <img src="https://github.com/user-attachments/assets/92037e57-e572-4dd0-ac91-5be37b359aa3" width="900" height="500">

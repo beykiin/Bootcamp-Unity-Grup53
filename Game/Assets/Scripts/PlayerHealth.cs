@@ -27,6 +27,7 @@ public class PlayerHealth : MonoBehaviour
         if (shieldSkill != null && shieldSkill.IsShieldActive())
         {
             damage /= 2;
+            Debug.Log(currentHealth);
             
         }
         

@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using TMPro;
 
 public class HealthSkill : MonoBehaviour
 {
@@ -14,10 +16,15 @@ public class HealthSkill : MonoBehaviour
     private float healTimer = 0f;
     private PlayerHealth playerHealth;
 
+
+    public Button healSkillButton;
+    public TextMeshProUGUI healCooldownText;
+    public Color cooldownColor = Color.grey;
+
     void Start()
     {
         playerHealth = GetComponent<PlayerHealth>();
-
+        UpdateButtonVisuals();
     }
 
     void Update()
@@ -28,13 +35,19 @@ public class HealthSkill : MonoBehaviour
             {
                 Heal(20);
                 healTimer = Time.time;
-                canHeal = false; 
+                canHeal = false;
+                UpdateButtonVisuals();
             }
         }
 
         if (!canHeal && Time.time - healTimer >= healCooldown)
         {
             canHeal = true;
+            UpdateButtonVisuals();
+        }
+        if (!canHeal)
+        {
+            UpdateCooldownTimer();
         }
     }
 
@@ -54,6 +67,47 @@ public class HealthSkill : MonoBehaviour
                 Destroy(effect, 3f);
             }
             Debug.Log($"Previous Health: {previousHealth}, New Health: {newHealth}");
+        }
+    }
+
+    void UpdateCooldownTimer()
+    {
+        float remainingCooldown = Mathf.Max(0, healCooldown - (Time.time - healTimer));
+
+        if (healCooldownText != null)
+        {
+            if (remainingCooldown > 0)
+            {
+                healCooldownText.text = Mathf.RoundToInt(remainingCooldown).ToString() + "s";
+            }
+            else
+            {
+                healCooldownText.text = "";
+            }
+        }
+    }
+
+    void UpdateButtonVisuals()
+    {
+        if (healSkillButton != null)
+        {
+            Image buttonImage = healSkillButton.GetComponent<Image>();
+
+            if (buttonImage != null)
+            {
+                if (canHeal)
+                {
+                    buttonImage.color = Color.clear;
+                    if (healCooldownText != null)
+                    {
+                        healCooldownText.text = "";
+                    }
+                }
+                else
+                {
+                    buttonImage.color = cooldownColor;
+                }
+            }
         }
     }
 }

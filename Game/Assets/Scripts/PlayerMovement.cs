@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using TMPro;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -10,6 +12,9 @@ public class PlayerMovement : MonoBehaviour
     public float angerSkillDuration = 2f;
     public float attackDamage = 50f;
     public Collider swordCollider;
+    public TextMeshProUGUI angerSkillCooldownText;
+    public Button angerSkillCooldownButton;
+    public Color cooldownBackgroundColor = new Color(0.5f, 0.5f, 0.5f, 0.2f);
 
     private Rigidbody rb;
     private Animator animator;
@@ -24,6 +29,7 @@ public class PlayerMovement : MonoBehaviour
 
     public float angerSkillCooldown = 10f;
     private float lastAngerSkillTime = -10f;
+    private float skillStartTime;
 
 
     void Start()
@@ -35,6 +41,11 @@ public class PlayerMovement : MonoBehaviour
         {
             swordCollider.enabled = false; 
         }
+        if (angerSkillCooldownText != null) //*
+        { //*
+            angerSkillCooldownText.text = ""; //*
+            SetButtonBackgroundColor(angerSkillCooldownButton, Color.clear);
+        } //*
     }
 
 
@@ -69,6 +80,8 @@ public class PlayerMovement : MonoBehaviour
         {
             Jump();
         }
+
+        UpdateAngerSkillCooldown();
     }
 
 
@@ -113,7 +126,7 @@ public class PlayerMovement : MonoBehaviour
     IEnumerator ActivateAngerSkill()
     {
         isAngerSkillActive = true;
-
+        skillStartTime = Time.time;
         if (swordCollider != null)
         {
             swordCollider.enabled = true; 
@@ -126,6 +139,31 @@ public class PlayerMovement : MonoBehaviour
         if (swordCollider != null)
         {
             swordCollider.enabled = false; 
+        }
+    }
+
+    void UpdateAngerSkillCooldown()
+    {
+        float remainingCooldown = Mathf.Max(0, angerSkillCooldown - (Time.time - lastAngerSkillTime));
+
+        if (angerSkillCooldownText != null)
+        {
+            if (remainingCooldown > 0)
+            {
+                angerSkillCooldownText.text = Mathf.RoundToInt(remainingCooldown).ToString() + "s";
+                if (angerSkillCooldownButton != null)
+                {
+                    SetButtonBackgroundColor(angerSkillCooldownButton, cooldownBackgroundColor); // Gri arka plan
+                }
+            }
+            else
+            {
+                angerSkillCooldownText.text = "";
+                if (angerSkillCooldownButton != null)
+                {
+                    SetButtonBackgroundColor(angerSkillCooldownButton, Color.clear); // Arka planı şeffaf yap
+                }
+            }
         }
     }
 
@@ -188,6 +226,14 @@ public class PlayerMovement : MonoBehaviour
             {
                 enemyHealth.TakeDamage(attackDamage);
             }
+        }
+    }
+    void SetButtonBackgroundColor(Button button, Color color)
+    {
+        Image buttonImage = button.GetComponent<Image>();
+        if (buttonImage != null)
+        {
+            buttonImage.color = color;
         }
     }
 }

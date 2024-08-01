@@ -28,7 +28,7 @@
     <h1>GAME LOGO:</h1>
 </div>
 
-<div align="center"><img src="gameNameLogo.png" width="400" height="300"></div><hr>
+<div align="center"><img src="gos logo.jpg" width="400" height="300"></div><hr>
 
 <div align="center">
     <b>TEAM NAME:</b>

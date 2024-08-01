@@ -4,20 +4,27 @@ using UnityEngine;
 
 public class DoorController : MonoBehaviour
 {
-    public GameObject keyObject; // Key tagına sahip game object'i buraya atayın
+    public GameObject keyObject; // Key tagına sahip game object
+    public Transform player; // Karakterin transform'u
     public float targetY = 8.45f; // Kapının ulaşacağı y ekseni
     public float moveSpeed = 2f; // Kapının hareket hızı
+    public float interactionDistance = 2f; // Kapıya ne kadar yaklaşıldığında etkileşime geçilebileceği mesafe
+    public DogFollow dogFollow; // Köpeğin takip script'i
 
     private bool isMoving = false; // Kapının hareket edip etmediğini kontrol eder
+    private bool hasKey = false; // Anahtarın karakterde olup olmadığını kontrol eder
 
     void Update()
     {
-        // E tuşuna basıldığında ve karakter kapının yakınındayken kapıyı hareket ettir
-        if (Input.GetKeyDown(KeyCode.E) && !isMoving)
+        // Anahtar karakterde mi kontrol et
+        hasKey = Vector3.Distance(keyObject.transform.position, player.position) < interactionDistance;
+
+        // E tuşuna basıldığında, karakter kapının yakınındayken ve anahtar yanındayken kapıyı hareket ettir
+        if (Input.GetKeyDown(KeyCode.E) && !isMoving && Vector3.Distance(transform.position, player.position) < interactionDistance && hasKey)
         {
-            // Kapının hareket etmeye başlamasını ve Key object'in saklanmasını başlat
             StartCoroutine(MoveDoor());
             keyObject.SetActive(false);
+            dogFollow.shouldFollow = true; // Köpeğin takip etmeye başlaması
         }
     }
 

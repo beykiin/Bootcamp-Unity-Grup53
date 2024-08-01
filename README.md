@@ -191,6 +191,7 @@ First sprint and game draft
 # Sprint Retrospective
 
 - **Good Parts:**
+- 
   - Increased communication and trust between team members
   - Sprint goals were largely completed successfully.
   - Daily stand-up meetings were productive and problems were resolved quickly.
@@ -198,30 +199,40 @@ First sprint and game draft
   - The positive aspects of collaboration and communication within the team were very beneficial to the content.
 
 - **Bad Parts:**
+- 
   - The slow progress of the process until a certain date.
   - Small deadlines are exceeded, even if only slightly.
 
 - **They will be improved:**
+- 
   - Duty periods need to be planned more realistically.
   
 **Targets for the Next Sprint:**
+
 - The development of the character in the game was discussed.
 - The date has been set for level design, UI and AI add-ons.
 
 ## Sprint 2
 
 **Estimated Points to be Completed in Sprint:** 8 points.
+
 ## Sprint End Evaluation
 
 The target score we set for the sprint was 8 points. Factors affecting the scoring included the completion of level designs, the user interface, the writing of basic movement codes, team initiative, and communication points. Although there were communication issues within the team at the beginning of the sprint, the team’s coming together and closing the gap allowed us to finish the sprint with a full 8 points.
 
 
-**Daily Scrum:** Daily Scrum meetings were held both on WhatsApp and Discord. Meetings were held twice a week on Discord. (A brief communication and accessibility issue was experienced within the team after the first sprint.)
+**Daily Scrum:**
 
-**WhatsApp Group Logic:** The team was divided into two groups for level designs and coding. Level designs were to be completed and sent to the coders by a determined deadline. The coders would then write code based on these designs. Communication continued within the same group.
+Daily Scrum meetings were held both on WhatsApp and Discord. Meetings were held twice a week on Discord. (A brief communication and accessibility issue was experienced within the team after the first sprint.)
+
+
+**WhatsApp Group Logic:** 
+
+The team was divided into two groups for level designs and coding. Level designs were to be completed and sent to the coders by a determined deadline. The coders would then write code based on these designs. Communication continued within the same group.
 
 
 **Meeting and WhatsApp Screenshots:**
+
 <div align="center">
    <div style="display: flex; justify-content: center; flex-wrap: wrap;">
       <img src="https://github.com/user-attachments/assets/3d6f8304-0b4f-4347-a099-9a2529d6594f" width="900" height="500">
@@ -232,6 +243,7 @@ The target score we set for the sprint was 8 points. Factors affecting the scori
 
 
 - **Sprint 2 Board Update:** Sprint 2 Board Screenshot:
+- 
 - <div align="center">
    <img src="https://github.com/user-attachments/assets/73e9bac0-85e6-4084-94cb-296aed9982f3" width="900" height="500">
 </div>
@@ -251,13 +263,17 @@ The target score we set for the sprint was 8 points. Factors affecting the scori
 </div>
 
 
-
   
 ### Sprint Review:
 At the end of Sprint 2, the team gathered to review the sprint. We decided to change the game character in this sprint.
+
+
 **Sprint Review Participants:** Yağız, Yasin, Zeynep, Zümra, and Zozan.
 
+
+
 ### Sprint Retrospective:
+
 The score for Sprint 2 is a full 8 points.  
 It was emphasized that team members need to be more active in future sprints.  
 Assignments were made until the next sprint.    
@@ -268,26 +284,34 @@ Assignments were made until the next sprint.
 
 ### Notes on the Team Between Sprint 1 and Sprint 2
 
+
 **Good Points:**
 - The team dynamics gained momentum after minor disputes.
 - We became a team that is starting to become more active and take initiatives.
 
+
 **Bad Points:**
 - Even if our interim goals are completed, there is a tendency to leave some tasks to the last minute within the team.
+
  
 # SPRINT 3
 
 ## Estimated Points for Completion: 9 Points
+
 The point logic includes: health and rage skills, animations, transitions, sounds, Cinemachine, remaining code, overall evaluation, team communication, and activity.
 
+
 - **Sprint 3 Board Update:**
+- 
 <div align="center">
    <div style="display: flex; justify-content: center;">
       <img src="https://github.com/user-attachments/assets/92037e57-e572-4dd0-ac91-5be37b359aa3" width="900" height="500">
    </div>
 </div>
 
+
 ## Daily Scrum
+
 Daily Scrum meetings were conducted on Discord between 9-10 am or via WhatsApp if a suitable time was not found.
 <div align="center">
    <div style="display: flex; justify-content: center; flex-wrap: wrap;">
@@ -296,6 +320,8 @@ Daily Scrum meetings were conducted on Discord between 9-10 am or via WhatsApp i
       <img src="https://github.com/user-attachments/assets/c6a52111-ee62-4dd7-a1c7-ef028e6b2884" width="900" height="500">
    </div>
 </div>
+
+
 ## Product Status
 
 <div align="center">
@@ -310,9 +336,12 @@ Daily Scrum meetings were conducted on Discord between 9-10 am or via WhatsApp i
 </div>
 
 
+
 ### Final Video:
 
+
 ## SPRINT REVIEW
+
 We should congratulate ourselves for the dedication and effort put in by the team of 5 throughout the process.
 During this period, we completed:
 - 1 character design
@@ -327,8 +356,12 @@ During this period, we completed:
 
 24 Backlog points were completed.
 
+
 ### Sprint Review Participants:
+
 Yağız, Yasin, Zeynep, Zozan, and Zümra
 
+
 ## Sprint Retrospective
+
 We discussed completing the project after the academic period.

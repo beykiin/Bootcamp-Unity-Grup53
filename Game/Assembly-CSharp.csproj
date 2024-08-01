@@ -60,7 +60,6 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.25f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Narrenschlag\DialogueZ\Code\DialogueZFollowInstance.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
@@ -70,25 +69,19 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
     <Compile Include="Assets\Scripts\EnemyAgent.cs" />
-    <Compile Include="Assets\Narrenschlag\DialogueZ\Code\Styles\DialogueZStyle_Nntndo.cs" />
     <Compile Include="Assets\TerrainFormer\TerrainSetNeighbours.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
-    <Compile Include="Assets\Narrenschlag\NarCursor\NarCursor.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
     <Compile Include="Assets\TowerDefence_Vsquad\Scripts\EnemyBullet.cs" />
-    <Compile Include="Assets\Narrenschlag\DialogueZ\Code\DialogueZStyle.cs" />
-    <Compile Include="Assets\Narrenschlag\DialogueZ\Code\SaveLoad.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
-    <Compile Include="Assets\Narrenschlag\DialogueZ\Code\DialogueZScaler.cs" />
     <Compile Include="Assets\TowerDefence_Vsquad\Scripts\EnemyHp.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
     <Compile Include="Assets\Scripts\QuitButton.cs" />
     <Compile Include="Assets\Scripts\StartButton.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
-    <Compile Include="Assets\Narrenschlag\DialogueZ\Code\Styles\DialogueZStyle_Dan.cs" />
     <Compile Include="Assets\Scripts\ShieldSkill.cs" />
     <Compile Include="Assets\Scripts\EnemyHealth.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
@@ -98,7 +91,6 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
     <Compile Include="Assets\TowerDefence_Vsquad\Scripts\WaveSpawn.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
-    <Compile Include="Assets\Narrenschlag\NarExtension.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
     <Compile Include="Assets\Scripts\DoorController.cs" />
     <Compile Include="Assets\TowerDefence_Vsquad\Scripts\TowerTrigger.cs" />
@@ -108,12 +100,10 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
     <Compile Include="Assets\Reversed Interactive\The Portal Collection\Scripts\SimpleCameraControllerPortals.cs" />
     <Compile Include="Assets\TowerDefence_Vsquad\Scripts\TowerHP.cs" />
-    <Compile Include="Assets\Narrenschlag\DialogueZ\_Documentation.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
     <Compile Include="Assets\TowerDefence_Vsquad\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\HealthBar.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
-    <Compile Include="Assets\Narrenschlag\DialogueZ\Code\DialogueZBase.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
     <Compile Include="Assets\Scripts\NextScenePortal.cs" />
     <Compile Include="Assets\Scripts\DestroyOnPlayerContact.cs" />
@@ -126,7 +116,6 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\PlayerHealth.cs" />
     <Compile Include="Assets\TowerDefence_Vsquad\Scripts\Tower.cs" />
-    <Compile Include="Assets\Narrenschlag\DialogueZ\Code\DialogueZ.cs" />
     <Compile Include="Assets\Scripts\EnemyAnimator.cs" />
     <Compile Include="Assets\Scripts\PlayerDefaultSkill.cs" />
     <Compile Include="Assets\Scripts\PanelController.cs" />
@@ -134,10 +123,8 @@
     <Compile Include="Assets\Scripts\EnemyAttack.cs" />
     <Compile Include="Assets\Scripts\MenuCameraController.cs" />
     <Compile Include="Assets\TowerDefence_Vsquad\Scripts\TowerBullet.cs" />
-    <Compile Include="Assets\Narrenschlag\NarCursor\NarCursorButton.cs" />
     <Compile Include="Assets\Scripts\BackgroundMusic.cs" />
     <Compile Include="Assets\Scripts\ChestController.cs" />
-    <Compile Include="Assets\Narrenschlag\DialogueZ\Code\Styles\DialogueZStyle_Vegas.cs" />
     <Compile Include="Assets\Scripts\KeyPickup.cs" />
     <Compile Include="Assets\Old Torch\Script\FlickLight.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
@@ -149,7 +136,6 @@
     <None Include="Assets\TowerDefence_Vsquad\INFO\Info.txt" />
     <None Include="Assets\Lowpoly Forest Pack Winter\Lowpoly Forest Pack READ ME - Copy.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
-    <None Include="Assets\Narrenschlag\DialogueZ\Data\DLBase.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Oswald-Bold - OFL.txt" />
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />

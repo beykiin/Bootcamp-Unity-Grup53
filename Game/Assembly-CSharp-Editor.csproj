@@ -85,16 +85,13 @@
     <Compile Include="Assets\TerrainFormer\Editor\AssetWatcher.cs" />
     <Compile Include="Assets\TerrainFormer\Editor\TerrainFormerEditor.cs" />
     <Compile Include="Assets\TerrainFormer\Editor\Brush Types\ImageBrush.cs" />
-    <Compile Include="Assets\Narrenschlag\DialogueZ\Code\Editor\DialogueZEditor.cs" />
     <Compile Include="Assets\TerrainFormer\Editor\TerrainCommand.cs" />
     <Compile Include="Assets\TerrainFormer\Editor\TerrainSettings.cs" />
     <Compile Include="Assets\TerrainFormer\Editor\DuplicateTerrainAs.cs" />
     <Compile Include="Assets\TerrainFormer\Editor\Brush.cs" />
-    <Compile Include="Assets\Narrenschlag\DialogueZ\Code\Editor\DialogueZStyleEditor.cs" />
     <Compile Include="Assets\TerrainFormer\Editor\Terrain Commands\RaiseOrLowerCommand.cs" />
     <Compile Include="Assets\TerrainFormer\Editor\BrushCollection.cs" />
     <Compile Include="Assets\TerrainFormer\Editor\TerrainMismatchManager.cs" />
-    <Compile Include="Assets\Narrenschlag\DialogueZ\Code\Editor\DialogueZBaseEditor.cs" />
     <Compile Include="Assets\TerrainFormer\Editor\Terrain Commands\SetHeightCommand.cs" />
     <Compile Include="Assets\TerrainFormer\Editor\ModeSettings.cs" />
     <Compile Include="Assets\TerrainFormer\Editor\PointRotator.cs" />

@@ -91,6 +91,7 @@
     <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextConsoleSimulator.cs" />
     <Compile Include="Assets/TowerDefence_Vsquad/Scripts/WaveSpawn.cs" />
     <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TeleType.cs" />
+    <Compile Include="Assets/Scripts/DestroyFence.cs" />
     <Compile Include="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventCheck.cs" />
     <Compile Include="Assets/Scripts/DoorController.cs" />
     <Compile Include="Assets/TowerDefence_Vsquad/Scripts/TowerTrigger.cs" />
@@ -130,6 +131,7 @@
     <Compile Include="Assets/Scripts/ChestController.cs" />
     <Compile Include="Assets/Scripts/KeyPickup.cs" />
     <Compile Include="Assets/Old Torch/Script/FlickLight.cs" />
+    <Compile Include="Assets/Scripts/AngerButtonController.cs" />
     <Compile Include="Assets/Scripts/PlayerMovement.cs" />
     <Compile Include="Assets/Mini Simple Characters Skeleton Demo/Readme/Scripts/Readme.cs" />
     <Compile Include="Assets/Scripts/DogAnimator.cs" />

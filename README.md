@@ -223,9 +223,11 @@
 
 <h2>Product Status</h2>
 <div class="images-container">
-    <img src="game1.jpeg" width="900" height="500" alt="Product Status 1">
-    <img src="game2.jpeg" width="900" height="500" alt="Product Status 2">
-    <img src="game3.jpeg" width="900" height="500" alt="Product Status 3">
+    <img src="gamescene1.jpeg" width="900" height="500" alt="Product Status 1">
+    <img src="gamescene2.jpeg" width="900" height="500" alt="Product Status 2">
+    <img src="gamescene3.jpeg" width="900" height="500" alt="Product Status 3">
+    <img src="gamescene4.jpeg" width="900" height="500" alt="Product Status 2">
+    <img src="gamescene5.jpeg" width="900" height="500" alt="Product Status 3">
 </div>
 
 <h2>Final Video:</h2>

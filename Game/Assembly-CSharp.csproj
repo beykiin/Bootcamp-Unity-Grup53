@@ -107,6 +107,7 @@
     <Compile Include="Assets\TowerDefence_Vsquad\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\HealthBar.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
+    <Compile Include="Assets\Scripts\DogCinemachine.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
     <Compile Include="Assets\Bublisher\3D Stylized Animated Dogs Kit\Scripts\AnimationButton.cs" />
     <Compile Include="Assets\Scripts\NextScenePortal.cs" />
@@ -132,6 +133,7 @@
     <Compile Include="Assets\TowerDefence_Vsquad\Scripts\TowerBullet.cs" />
     <Compile Include="Assets\Scripts\BackgroundMusic.cs" />
     <Compile Include="Assets\Scripts\ChestController.cs" />
+    <Compile Include="Assets\Old Torch\Script\z.cs" />
     <Compile Include="Assets\Scripts\KeyPickup.cs" />
     <Compile Include="Assets\Old Torch\Script\FlickLight.cs" />
     <Compile Include="Assets\Scripts\AngerButtonController.cs" />

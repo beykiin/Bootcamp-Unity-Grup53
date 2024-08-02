@@ -147,6 +147,7 @@
 <h2>Estimated Points for Completion</h2>
 <p>8 Points</p>
 
+
 <h2>Sprint 2 Board Update</h2>
 <div class="center">
     <img src="sprint2.png" width="900" height="500" alt="Sprint 2 Board Screenshot">
@@ -161,6 +162,7 @@
     <img src="ss8.png" width="900" height="500" alt="Product Status 8">
     <img src="ss9.png" width="900" height="500" alt="Product Status 9">
 </div>
+
 
 <h2>Sprint Review</h2>
 <p>At the end of Sprint 2, the team gathered to review the sprint. We decided to change the game character in this sprint.</p>

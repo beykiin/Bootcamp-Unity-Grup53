@@ -1,15 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PanelController : MonoBehaviour
 {
-
     public GameObject panel; // UI Panel
+    public Button actionButton; // UI Button
 
     void Start()
     {
         panel.SetActive(false); // Paneli başlangıçta kapalı yap
+        actionButton.gameObject.SetActive(false); // Butonu başlangıçta kapalı yap
     }
 
     void OnTriggerEnter(Collider other)
@@ -18,6 +20,7 @@ public class PanelController : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             panel.SetActive(true); // Paneli aç
+            actionButton.gameObject.SetActive(true); // Butonu aç
         }
     }
 
@@ -30,5 +33,3 @@ public class PanelController : MonoBehaviour
         }
     }
 }
-
-

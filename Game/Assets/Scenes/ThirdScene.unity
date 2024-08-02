@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.26793286, g: 0.46431166, b: 0.613321, a: 1}
+  m_IndirectSpecularColor: {r: 0.26792946, g: 0.463935, b: 0.61439043, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2447,8 +2447,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: afc301319d5828a4bb3785374dafcb96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attackRange: 10
-  attackDamage: 5
+  attackRange: 20
+  attackDamage: 20
   attackRate: 1
 --- !u!114 &206862711
 MonoBehaviour:
@@ -2462,7 +2462,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59800ebc8f0beee45a3c83025732e43a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 100
+  maxHealth: 300
 --- !u!136 &206862712
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -2544,8 +2544,8 @@ MonoBehaviour:
   hasUpgradedFromAgentParameters: 1
   MaxStep: 0
   Hedef: {fileID: 1687427291}
-  carpan: 8.5
-  "takipAlan\u0131": 10
+  carpan: 50
+  "takipAlan\u0131": 30
 --- !u!114 &206862716
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3256,6 +3256,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7422669034240701022, guid: 5f7c27b451d103742ac0c4c83f58aeb5, type: 3}
   m_PrefabInstance: {fileID: 252315294}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &255289951 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6693176282072926964, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
+  m_PrefabInstance: {fileID: 804862808}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &275487431
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5963,6 +5974,17 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!114 &480671842 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3216671450440820991, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
+  m_PrefabInstance: {fileID: 804862808}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &483340695
 GameObject:
   m_ObjectHideFlags: 0
@@ -7069,6 +7091,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8054910666494070260, guid: 05bacf5de38dd374a9eb1a0207ee424f, type: 3}
   m_PrefabInstance: {fileID: 547769507}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &548175059 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6002135467468844104, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
+  m_PrefabInstance: {fileID: 804862808}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &552379314
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8512,6 +8545,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8284014495647254978, guid: ded46aac8039d5c40a4c8e767640168c, type: 3}
   m_PrefabInstance: {fileID: 1250256530}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &687315619 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1528716683950950901, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
+  m_PrefabInstance: {fileID: 804862808}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &689249969
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8735,6 +8779,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6143327382123120946, guid: 9e4d87ed8442a2a40b13957dd237e343, type: 3}
   m_PrefabInstance: {fileID: 696999456}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &705278218 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7746396398680927836, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
+  m_PrefabInstance: {fileID: 804862808}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &710080872
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10008,11 +10063,11 @@ PrefabInstance:
     - target: {fileID: 2659187709287228518, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
       propertyPath: angerSkillCooldownText
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 687315619}
     - target: {fileID: 2659187709287228518, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
       propertyPath: angerSkillCooldownButton
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 480671842}
     - target: {fileID: 2659187709287228518, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
       propertyPath: cooldownBackgroundColor.a
       value: 0.8666667
@@ -10056,11 +10111,11 @@ PrefabInstance:
     - target: {fileID: 7472552032865532495, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
       propertyPath: shieldSkillButton
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 548175059}
     - target: {fileID: 7472552032865532495, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
       propertyPath: shieldCooldownText
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 255289951}
     - target: {fileID: 7880351349825706866, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
       propertyPath: cooldownColor.a
       value: 0.8666667
@@ -10080,11 +10135,11 @@ PrefabInstance:
     - target: {fileID: 7880351349825706866, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
       propertyPath: healSkillButton
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 705278218}
     - target: {fileID: 7880351349825706866, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
       propertyPath: healCooldownText
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1052710638}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12075,6 +12130,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5643927889120461695, guid: cc47579fdfca6564ba3993fde50cef1c, type: 3}
   m_PrefabInstance: {fileID: 1045515800}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1052710638 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1011325968343823823, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
+  m_PrefabInstance: {fileID: 804862808}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1074737521
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22392,7 +22458,7 @@ GameObject:
   - component: {fileID: 2026411944}
   m_Layer: 0
   m_Name: obelisk_plate (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -204,6 +204,7 @@
 
 <h2>Sprint 3 Board Update:</h2>
 
+<img src="trelloboardsprint3.png" width="600" height="400">
 
 
 <h2>Daily Scrum</h2>

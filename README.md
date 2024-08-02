@@ -1,43 +1,32 @@
 <div align="center">
-    <h1>TEAM LOGO:</h1>
+    <b>TEAM NAME:</b>
+    EPIC MIND
 </div>
 <div align="center"><img src="teamNameLogo.png" width="350" height="250"></div><hr>
+<img height="50">
 <div align="center">
-    <b>SCRUM MASTER:</b>
-    ZOZAN AKDOĞAN
-</div>
+    
+ ## TEAM MEMBERS
+
+- [Yağız Şahinler: Product Owner/Developer](https://www.linkedin.com/in/yagizsahinler/)
+- [Zozan Akdoğan: Scrum Master](https://www.linkedin.com/in/zozanakdogan/)
+- [Zümra Betül Alkan: Team Member/Developer](https://www.linkedin.com/in/zumralkan/)
+- [Zeynep Sude Duman: Team Member/Developer](https://www.linkedin.com/in/zeynepsudeduman/)
+- [Yasin Beken: Team Member/Developer](https://www.linkedin.com/in/yasin-beken-51aa0427b/)
+
+<img height="50">
 <div align="center">
-    <b>PRODUCT OWNER:</b>
-    YAĞIZ ŞAHİNLER
-</div>
-<div align="center">
-        <b>DEVELOPER:</b>
-        YASİN BEKEN
-</div>
-<div align="center">
-    <b>DEVELOPER:</b>
-    ZÜMRA BETÜL ALKAN
-</div>
-<div align="center">
-    <b>DEVELOPER:</b>
-    ZEYNEP SUDE DUMAN
-</div>
 <hr>
 <img height="50">
 <div align="center">
     <h1>GAME LOGO:</h1>
 </div>
-
+    <div align="center">
+    <b>GAME NAME:</b>
+   GUARDIANS OF SOUL
+</div>
 <div align="center"><img src="gos logo.jpg" width="400" height="300"></div><hr>
 
-<div align="center">
-    <b>TEAM NAME:</b>
-    EPIC MIND
-</div><hr>
-<div align="center">
-    <b>GAME NAME:</b>
-    GUARDIANS OF SOUL
-</div><hr>
 <div align="center">
     <b>PRODUCT BACKLOGS:</b>
     <h4>TRELLO LINK:</h4>
@@ -101,11 +90,6 @@
 These emotions and abilities increase the depth of the game, make the player feel the emotional and mental development of the character, and emphasize the importance of in-game decisions and strategies.</div>
    
 </div><hr>
-<div align="center">
-    <h3>PRODUCT DESCRIPTION:</h3>
-    <p>Guardians Of soul is a 3D platformer and puzzle experience that is shaped by the power of emotions. At the center of the game are the character's abilities, which change according to the emotions they feel, and how they interact in the game world. The game has a specific storyline and offers rich content that will challenge players both mentally and emotionally throughout the various levels.</p>
-</div><hr>
-
 
 <div align="center">
     <h3>TARGET GROUP:</h3>
@@ -127,7 +111,7 @@ These emotions and abilities increase the depth of the game, make the player fee
 ## Sprint Scoring
 We scored to evaluate the sprints and evaluated the scoring of our first sprint as 7 points.
 As a team, we closed our first sprint with 7 full points because every topic we discussed for the first sprint was addressed.
-
+</div><hr>
 ## Daily Meetings
 We strive to be a team that is in contact at all times so that communication is continuous and everyone has equal information about the product.
 **Time:** Every day between 9-10 am
@@ -140,10 +124,10 @@ We strive to be a team that is in contact at all times so that communication is 
       
    </div>
 </div>
-
+</div><hr>
 ### Development Process
 Since each team member will take part in every step of product development and other steps, we did not need to separate them into teams.
-
+</div><hr>
 - **Process of Determining Character Game Name and Team Names**
 - We decided to go through a process that is democratic and supports voting integrity.
 <div align="center">
@@ -155,7 +139,7 @@ Since each team member will take part in every step of product development and o
       <img src="ss7.png" width="350" height="600">
    </div>
 </div>
-
+</div><hr>
 - Problems and obstacles encountered
 
 - Due to the low motivation of the team at the beginning due to meeting and other stressful factors (final period, holidays, etc.), there was a general period of communication and indecision within the team. At this point, sincerely expressing expectations and sensitivities moved the team to a place where they trust and support each other.
@@ -331,7 +315,6 @@ Daily Scrum meetings were conducted on Discord between 9-10 am or via WhatsApp i
       <img src="https://github.com/user-attachments/assets/02e6aec1-a3ec-478c-864b-823bbaa64db2" width="900" height="500">
       <img src="https://github.com/user-attachments/assets/2a09ef8d-6f34-42a7-88d8-93767781b6fa" width="900" height="500">
       <img src="https://github.com/user-attachments/assets/2fa997c3-0912-4124-a3f1-62370692e80d" width="900" height="500">
-      <img src="https://github.com/user-attachments/assets/dc4acf88-9242-41ee-b2c7-12b792f157a1" width="900" height="500">
    </div>
 </div>
 

@@ -7,7 +7,7 @@ public class EnemyAnimator : MonoBehaviour
     public Transform player;
     private Animator animator;
     private Vector3 lastPosition;
-    private float moveThreshold = 0.01f;
+    private float moveThreshold = 0.0001f;
 
     private void Start()
     {

@@ -12,7 +12,7 @@ public class PlayerHealth : MonoBehaviour
 
     public GameObject birthEffectPrefab;
     private ShieldSkill shieldSkill;
-
+    public HealthBarController healthBarController;
     private void Start()
     {
         
@@ -20,6 +20,10 @@ public class PlayerHealth : MonoBehaviour
         ResetHealth();
         animator= GetComponent<Animator>();
         shieldSkill = GetComponent<ShieldSkill>();
+        if (healthBarController != null)
+        {
+            healthBarController.SetHealth(currentHealth, maxHealth);
+        }
     }
 
     public void TakeDamage(int damage)
@@ -35,6 +39,11 @@ public class PlayerHealth : MonoBehaviour
 
         currentHealth -= damage;
 
+        if (healthBarController != null)
+        {
+            healthBarController.SetHealth(currentHealth, maxHealth);
+        }
+
         if (currentHealth <= 0)
         {
             Die();
@@ -44,6 +53,11 @@ public class PlayerHealth : MonoBehaviour
     public void Heal(int amount)
     {
         currentHealth = Mathf.Min(currentHealth + amount, maxHealth);
+
+        if (healthBarController != null)
+        {
+            healthBarController.SetHealth(currentHealth, maxHealth);
+        }
     }
 
     void Die()
@@ -59,7 +73,12 @@ public class PlayerHealth : MonoBehaviour
 
     void ResetHealth()
     {
-        currentHealth = maxHealth; 
+        currentHealth = maxHealth;
+
+        if (healthBarController != null)
+        {
+            healthBarController.SetHealth(currentHealth, maxHealth);
+        }
     }
 
     void ResetCharacter()

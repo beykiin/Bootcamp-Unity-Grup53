@@ -5,13 +5,15 @@
 <div align="center"><img src="teamNameLogo.png" width="350" height="250"></div><hr>
 <img height="50">
 <div align="center">
-    <h1>TEAM:</h1>
-</div>
+    
+ ## TEAM MEMBERS
+
 - [Yağız Şahinler: Product Owner/Developer](https://www.linkedin.com/in/yagizsahinler/)
 - [Zozan Akdoğan: Scrum Master](https://www.linkedin.com/in/zozanakdogan/)
 - [Zümra Betül Alkan: Team Member/Developer](https://www.linkedin.com/in/zumralkan/)
 - [Zeynep Sude Duman: Team Member/Developer](https://www.linkedin.com/in/zeynepsudeduman/)
 - [Yasin Beken: Team Member/Developer](https://www.linkedin.com/in/yasin-beken-51aa0427b/)
+
 <img height="50">
 <div align="center">
 <hr>

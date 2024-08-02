@@ -2,7 +2,10 @@
     <h1>TEAM LOGO:</h1>
 </div>
 <div align="center"><img src="teamNameLogo.png" width="350" height="250"></div><hr>
-## Team Members
+<img height="50">
+<div align="center">
+    <h1>TEAM:</h1>
+</div>
 
 - [Yağız Şahinler: Product Owner/Developer](https://www.linkedin.com/in/yagizsahinler/)
 - [Zozan Akdoğan: Scrum Master](https://www.linkedin.com/in/zozanakdogan/)

@@ -1,31 +1,4 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Guardian of Souls - Sprint Raporları</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-        .center {
-            text-align: center;
-        }
-        .images-container {
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-        }
-        .images-container img {
-            max-width: 100%;
-            height: auto;
-            margin: 10px;
-        }
-        hr {
-            margin: 20px 0;
-        }
-    </style>
+
 </head>
 <body>
 

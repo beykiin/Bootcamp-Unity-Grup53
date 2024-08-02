@@ -127,7 +127,7 @@ These emotions and abilities increase the depth of the game, make the player fee
 ## Sprint Scoring
 We scored to evaluate the sprints and evaluated the scoring of our first sprint as 7 points.
 As a team, we closed our first sprint with 7 full points because every topic we discussed for the first sprint was addressed.
-
+</div><hr>
 ## Daily Meetings
 We strive to be a team that is in contact at all times so that communication is continuous and everyone has equal information about the product.
 **Time:** Every day between 9-10 am
@@ -140,10 +140,10 @@ We strive to be a team that is in contact at all times so that communication is 
       
    </div>
 </div>
-
+</div><hr>
 ### Development Process
 Since each team member will take part in every step of product development and other steps, we did not need to separate them into teams.
-
+</div><hr>
 - **Process of Determining Character Game Name and Team Names**
 - We decided to go through a process that is democratic and supports voting integrity.
 <div align="center">
@@ -155,7 +155,7 @@ Since each team member will take part in every step of product development and o
       <img src="ss7.png" width="350" height="600">
    </div>
 </div>
-
+</div><hr>
 - Problems and obstacles encountered
 
 - Due to the low motivation of the team at the beginning due to meeting and other stressful factors (final period, holidays, etc.), there was a general period of communication and indecision within the team. At this point, sincerely expressing expectations and sensitivities moved the team to a place where they trust and support each other.

@@ -90,11 +90,6 @@
 These emotions and abilities increase the depth of the game, make the player feel the emotional and mental development of the character, and emphasize the importance of in-game decisions and strategies.</div>
    
 </div><hr>
-<div align="center">
-    <h3>PRODUCT DESCRIPTION:</h3>
-    <p>Guardians Of soul is a 3D platformer and puzzle experience that is shaped by the power of emotions. At the center of the game are the character's abilities, which change according to the emotions they feel, and how they interact in the game world. The game has a specific storyline and offers rich content that will challenge players both mentally and emotionally throughout the various levels.</p>
-</div><hr>
-
 
 <div align="center">
     <h3>TARGET GROUP:</h3>

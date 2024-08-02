@@ -25,7 +25,7 @@
 
 <div class="center">
     <h1>GAME LOGO:</h1>
-    <p>GAME NAME: GUARDIANS OF SOUL</p>
+    <p>GAME NAME: GUARDIAN OF SOULS</p>
     <img src="gos logo.jpg" width="400" height="300" alt="Game Logo">
 </div>
 
@@ -167,7 +167,7 @@
 <h2>Sprint Review</h2>
 <p>At the end of Sprint 2, the team gathered to review the sprint. We decided to change the game character in this sprint.</p>
 
-<p><strong>Sprint Review Participants:</strong> Yağız, Yasin, Zeynep, Zümra, and Zozan.</p>
+<p><strong>Sprint Review Participants:</strong> Yağız ŞAHİNLER, Yasin BEKEN, Zeynep Sude DUMAN, Zümra Betül ALKAN, and Zozan AKDOĞAN.</p>
 
 <h2>Sprint Retrospective</h2>
 <p>The score for Sprint 2 is a full 8 points. It was emphasized that team members need to be more active in future sprints. Assignments were made until the next sprint.</p>
@@ -244,11 +244,11 @@
 
 <h2>Sprint Review Participants:</h2>
 <ul>
-    <li>Yağız</li>
-    <li>Yasin</li>
-    <li>Zeynep</li>
-    <li>Zozan</li>
-    <li>Zümra</li>
+    <li>Yağız ŞAHİNLER</li>
+    <li>Yasin BEKEN</li>
+    <li>Zeynep Sude DUMAN</li>
+    <li>Zozan AKDOĞAN</li>
+    <li>Zümra Betül ALKAN</li>
 </ul>
 
 <h2>Sprint Retrospective</h2>

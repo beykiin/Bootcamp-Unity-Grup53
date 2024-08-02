@@ -1,12 +1,12 @@
 <div align="center">
-    <h1>TEAM LOGO:</h1>
+    <b>TEAM NAME:</b>
+    EPIC MIND
 </div>
 <div align="center"><img src="teamNameLogo.png" width="350" height="250"></div><hr>
 <img height="50">
 <div align="center">
     <h1>TEAM:</h1>
 </div>
-
 - [Yağız Şahinler: Product Owner/Developer](https://www.linkedin.com/in/yagizsahinler/)
 - [Zozan Akdoğan: Scrum Master](https://www.linkedin.com/in/zozanakdogan/)
 - [Zümra Betül Alkan: Team Member/Developer](https://www.linkedin.com/in/zumralkan/)
@@ -19,17 +19,12 @@
 <div align="center">
     <h1>GAME LOGO:</h1>
 </div>
-
+    <div align="center">
+    <b>GAME NAME:</b>
+   GUARDIANS OF SOUL
+</div>
 <div align="center"><img src="gos logo.jpg" width="400" height="300"></div><hr>
 
-<div align="center">
-    <b>TEAM NAME:</b>
-    EPIC MIND
-</div><hr>
-<div align="center">
-    <b>GAME NAME:</b>
-    GUARDIANS OF SOUL
-</div><hr>
 <div align="center">
     <b>PRODUCT BACKLOGS:</b>
     <h4>TRELLO LINK:</h4>

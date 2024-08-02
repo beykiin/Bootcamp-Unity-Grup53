@@ -98,7 +98,9 @@
     <img src="kod3.png" width="900" height="500" alt="Code Image 3">
 </div>
 
-[Epic Minds Assets ](https://docs.google.com/document/d/1bZnlj9hFnKjZjAcyhmGC9UBHXMo2jX3bsds5yp9DO3E/edit?usp=sharing)
+
+  # [Epic Minds Assets](https://docs.google.com/document/d/1bZnlj9hFnKjZjAcyhmGC9UBHXMo2jX3bsds5yp9DO3E/edit?usp=sharing)
+
 
 <h1>Sprint 1</h1>
 

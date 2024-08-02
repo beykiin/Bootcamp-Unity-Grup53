@@ -1,350 +1,258 @@
-<div align="center">
-    <b>TEAM NAME:</b>
-    EPIC MIND
+
+</head>
+<body>
+
+<div class="center">
+    <h1>TEAM NAME:</h1>
+    <p>EPIC MIND</p>
+    <img src="teamNameLogo.png" width="350" height="250" alt="Team Name Logo">
 </div>
-<div align="center"><img src="teamNameLogo.png" width="350" height="250"></div><hr>
-<img height="50">
-<div align="center">
-    
- ## TEAM MEMBERS
 
-- [Yağız Şahinler: Product Owner/Developer](https://www.linkedin.com/in/yagizsahinler/)
-- [Zozan Akdoğan: Scrum Master](https://www.linkedin.com/in/zozanakdogan/)
-- [Zümra Betül Alkan: Team Member/Developer](https://www.linkedin.com/in/zumralkan/)
-- [Zeynep Sude Duman: Team Member/Developer](https://www.linkedin.com/in/zeynepsudeduman/)
-- [Yasin Beken: Team Member/Developer](https://www.linkedin.com/in/yasin-beken-51aa0427b/)
-
-<img height="50">
-<div align="center">
 <hr>
-<img height="50">
-<div align="center">
+
+<div class="center">
+    <h2>TEAM MEMBERS</h2>
+    <ul>
+        <li><a href="https://www.linkedin.com/in/yagizsahinler/">Yağız Şahinler: Product Owner/Developer</a></li>
+        <li><a href="https://www.linkedin.com/in/zozanakdogan/">Zozan Akdoğan: Scrum Master</a></li>
+        <li><a href="https://www.linkedin.com/in/zumralkan/">Zümra Betül Alkan: Team Member/Developer</a></li>
+        <li><a href="https://www.linkedin.com/in/zeynepsudeduman/">Zeynep Sude Duman: Team Member/Developer</a></li>
+        <li><a href="https://www.linkedin.com/in/yasin-beken-51aa0427b/">Yasin Beken: Team Member/Developer</a></li>
+    </ul>
+</div>
+
+<hr>
+
+<div class="center">
     <h1>GAME LOGO:</h1>
+    <p>GAME NAME: GUARDIANS OF SOUL</p>
+    <img src="gos logo.jpg" width="400" height="300" alt="Game Logo">
 </div>
-    <div align="center">
-    <b>GAME NAME:</b>
-   GUARDIANS OF SOUL
+
+<hr>
+
+<div class="center">
+    <h2>PRODUCT BACKLOGS:</h2>
+    <p><a href="https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds">EPIC MIND'S TRELLO</a></p>
 </div>
-<div align="center"><img src="gos logo.jpg" width="400" height="300"></div><hr>
 
-<div align="center">
-    <b>PRODUCT BACKLOGS:</b>
-    <h4>TRELLO LINK:</h4>
-    <font align="center" color: "green">
-  <a href="https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds">
-    <strong>EPIC MIND'S TRELLO</strong>
-  </a>
-</font>
-</div><hr>
+<hr>
 
-<div align="center">
-    <h3>PRODUCT DESCRIPTION:</h3>
-    <p>Guardians Of Soul is a 3D platformer and puzzle experience that is shaped by the power of emotions. At the center of the game are the character's abilities, which change according to the emotions they feel, and how they interact in the game world. The game has a specific storyline and offers rich content that will challenge players both mentally and emotionally throughout the various levels.</p>
-</div><hr>
+<h1>Guardian of Souls</h1>
 
-<div align="center">
-    <h3>GAME DESCRIPTION:</h3>
-    <p>Guardians Of Soul is a 3D action-adventure game full of emotional exploration that takes players on the adventure of an amnesiac main character. The game begins with the main character opening his eyes in a forest. The character reinvents himself and improves his abilities through the various emotions he discovers over time.</p>
-    <img height="50">
-    <div align="start"><b>Emotional Explorations and Skill Development:</b> 
-    The main character explores emotions such as anger, compassion, and fear. For example, he strengthens his combat abilities by controlling his anger, or uses his compassion to gain forest animals as pets.</div>
-    <div align="start"><b>Nature and Forest Themed Locations:</b> 
-    Players adventure in a world filled with vast and detailed forests to explore. A dynamic environment is presented; Day and night cycles add depth to the game.</div>
-    <div align="start"><b>Enhanced Storytelling:</b> 
-    The game offers an in-depth story that tells the character's journey to recall his past and memory. As we watch the main character grow emotionally and mentally, players go on an emotional journey with him.</div>
-    <div align="start"><b>Strategic Combat and Puzzle Solving:</b> 
-    In addition to improving combat abilities, the game also encourages puzzle solving and strategic thinking. It offers a dynamic combat system where each emotion is integrated with a different usage style and game mechanics.</div>
-</div><hr>
+<h2>Game Features</h2>
+<ul>
+    <li><strong>Story-Driven Gameplay:</strong>
+        <ul>
+            <li><strong>Main Character:</strong> A female warrior with amnesia embarks on a challenging journey to regain lost memories and discover her destiny.</li>
+            <li><strong>Environments:</strong> The game features diverse and captivating settings, including forests, pine woods, and glacial realms.</li>
+        </ul>
+    </li>
+    <li><strong>Emotional Journey:</strong>
+        <ul>
+            <li><strong>Emotion Discovery:</strong> The character explores emotions such as compassion, anger, and patience. These emotions unlock new abilities and enhance combat skills.</li>
+        </ul>
+    </li>
+    <li><strong>Special Abilities:</strong>
+        <ul>
+            <li><strong>Healing Power:</strong> Gained through discovering compassion; this ability allows the character to heal herself and her allies.</li>
+            <li><strong>Rage Power:</strong> Increases attack power through anger. Activated by pressing the Z key, lasts for 3 seconds, with a 10-second cooldown.</li>
+            <li><strong>Shield Power:</strong> Acquired through patience; protects the character and her allies. Activated by pressing the C key, lasts for 3 seconds, with a 10-second cooldown.</li>
+        </ul>
+    </li>
+    <li><strong>Diverse Enemies:</strong>
+        <ul>
+            <li><strong>Skeletons:</strong> The primary enemies encountered throughout the game.</li>
+            <li><strong>Golem:</strong> A powerful enemy encountered in the final stage of the game.</li>
+        </ul>
+    </li>
+    <li><strong>Magical Obelisk:</strong> A mystical obelisk emitting purple lights that assists the character in regaining memories and confronting past secrets.</li>
+    <li><strong>Rescue and Protection:</strong> The character rescues and protects villagers from various dangers, leading to the acquisition of new abilities.</li>
+    <li><strong>Dynamic and Emotional Storytelling:</strong> The game offers deep narrative and character development, engaging players emotionally as they explore the character’s world.</li>
+    <li><strong>Impressive Graphics and Environments:</strong> A richly detailed game world with various biomes and atmospheric elements.</li>
+    <li><strong>Inclusive Sound and Music:</strong> Emotionally charged music and sound effects that enhance the game's atmosphere and immerse players.</li>
+</ul>
 
-<div align="start">
-    <h3>GAME FEATURES:</h3>
-    <h4>FEAR:</h4>
-    <div align="start">
-        <b>Effect Mechanics:</b>
-    When encountering wild animals in the forest or in dark environments, the fear bar appears and increases over time.
-    </div>
-    <div align="start">
-        <b>Result:</b>
-    As the fear level increases, the character's reaction slows down and certain abilities are affected.
-    </div>
-    <h4>ANGER:</h4>
-    <div><b>Effect Mechanics:</b>
-    Increases enemy damage by 50% for 15 seconds.</div>
-    <div><b>Results:</b>
-    As the fear level increases, the character's reaction slows down and certain abilities are affected.</div>
-    <h4>COMPASION AND DEVOTION:</h4>
-    <div><b>Effect Mechanics:</b>
-    Can form an alliance with an encountered NPC or tame animals in the forest by feeding them.</div>
-    <div> <b>Conclusion:</b>
-    Tamed animals can help the character or offer special abilities.</div>
-    <h4>SADNESS:</h4>
-    <div><b>Effect Mechanics:</b>
-     When an ally or pet is lost, the character takes -10 damage.</div>
-    <div> <b>Results:</b>
-    After each experience of sadness, the effect diminishes and the character gains resilience and becomes less susceptible to future losses.</div>
-    <h4>BRAVERY:</h4>
-    <div><b>Effect Mechanics:</b>
-     As the combats are won, the ability to control the emotion of fear increases and the fear bar begins to fill more slowly.</div>
-    <div> <b>Results:</b>
-    Courage reduces the character's fear level and makes him less affected by making him more successful in battles.
-These emotions and abilities increase the depth of the game, make the player feel the emotional and mental development of the character, and emphasize the importance of in-game decisions and strategies.</div>
-   
-</div><hr>
+<h2>Game Overview</h2>
+<p>Forgotten memories, lost emotions, and an epic adventure... <strong>Guardian of Souls</strong> follows the journey of a female warrior with amnesia as she sets out to uncover her past and destiny. The game invites players into a deep narrative and emotional exploration.</p>
+<p>As the character travels through diverse environments from forests to glaciers, she rediscovers forgotten emotions such as compassion, anger, and patience. These emotions grant her special abilities, enhancing her combat skills and protective powers. A mystical obelisk with purple lights helps her recover memories and confront the dark secrets of her past.</p>
+<p>Facing skeletons and a powerful golem, the character uncovers her true strength to protect her people. <strong>Guardian of Souls</strong> offers an unforgettable experience, immersing players in a rich story and emotional depth at every step and challenge.</p>
 
-<div align="center">
-    <h3>TARGET GROUP:</h3>
+<h2>Summary</h2>
+<p><strong>Guardian of Souls</strong> is a 3D platformer and puzzle game shaped by the power of emotions. Players embark on a journey with a female warrior to regain lost memories. The game features abilities that change based on the character's emotions and offers rich content. With emotionally and mentally challenging levels, it invites players to a deep exploration through stunning graphics and a captivating atmosphere.</p>
+
+<hr>
+
+<div class="center">
+    <h2>TARGET GROUP:</h2>
     <p>+8 years and above</p>
-    <p>Action, Adventure and puzzle lovers.</p>
-</div><hr>
-
-<div align="center">
-   <div style="display-flex" just>
-      <img src="character1.png" width="900" height="500">
-      <img src="kod1.png" width="900" height="500">
-      <img src="kod2.png" width="900" height="500">
-     <img src="kod3.png" width="900" height="500">
-   </div>
+    <p>Action, Adventure, and puzzle lovers.</p>
 </div>
 
-<h1 align="center"><i> Sprint 1 </i></h1>
+<hr>
 
-## Sprint Scoring
-We scored to evaluate the sprints and evaluated the scoring of our first sprint as 7 points.
-As a team, we closed our first sprint with 7 full points because every topic we discussed for the first sprint was addressed.
-</div><hr>
-## Daily Meetings
-We strive to be a team that is in contact at all times so that communication is continuous and everyone has equal information about the product.
-**Time:** Every day between 9-10 am
-**Place:** Discord Voice Channel- WhatsApp
-<div align="center">
-   <div style="display-flex" just>
-      <img src="ss2.png" width="900" height="500">
-      <img src="ss8.png" width="900" height="500">
-      <img src="ss10.jpeg" width="450" height="700">
-      
-   </div>
+<div class="images-container">
+    <img src="character1.png" width="900" height="500" alt="Character Image 1">
+    <img src="kod1.png" width="900" height="500" alt="Code Image 1">
+    <img src="kod2.png" width="900" height="500" alt="Code Image 2">
+    <img src="kod3.png" width="900" height="500" alt="Code Image 3">
 </div>
-</div><hr>
-### Development Process
-Since each team member will take part in every step of product development and other steps, we did not need to separate them into teams.
-</div><hr>
-- **Process of Determining Character Game Name and Team Names**
-- We decided to go through a process that is democratic and supports voting integrity.
-<div align="center">
-   <div style="display-flex" just>
-      <img width="30">
-      <img src="ss4.png" width="350" height="600">
-      <img src="ss5.png" width="350" height="600">
-      <img src="ss6.png" width="350" height="600">
-      <img src="ss7.png" width="350" height="600">
-   </div>
+
+[Epic Minds Assets ](https://docs.google.com/document/d/1bZnlj9hFnKjZjAcyhmGC9UBHXMo2jX3bsds5yp9DO3E/edit?usp=sharing)
+
+<h1>Sprint 1</h1>
+
+<h2>Sprint Scoring</h2>
+<p>We evaluated the first sprint and scored it 7 points. The sprint was completed with 7 points as every topic discussed was addressed.</p>
+
+<h2>Daily Meetings</h2>
+<p>We aim to maintain continuous communication and ensure everyone has equal information about the product.</p>
+<p><strong>Time:</strong> Every day between 9-10 am</p>
+<p><strong>Place:</strong> Discord Voice Channel - WhatsApp</p>
+
+<div class="images-container">
+    <img src="ss2.png" width="900" height="500" alt="Screenshot 2">
+    <img src="ss8.png" width="900" height="500" alt="Screenshot 8">
+    <img src="ss10.jpeg" width="450" height="700" alt="Screenshot 10">
 </div>
-</div><hr>
-- Problems and obstacles encountered
 
-- Due to the low motivation of the team at the beginning due to meeting and other stressful factors (final period, holidays, etc.), there was a general period of communication and indecision within the team. At this point, sincerely expressing expectations and sensitivities moved the team to a place where they trust and support each other.
+<h2>Development Process</h2>
+<p>Each team member participates in every step of product development, so there was no need to separate into sub-teams.</p>
 
-### Notes and Additional Information
+<ul>
+    <li><strong>Character Game Name and Team Names Determination:</strong> We adopted a democratic process with voting.</li>
+</ul>
 
-- All tasks and progress will be tracked on the
--  [Trello](https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds)
-- Each sprint will be uploaded at least one day before the sprint date and we will have a wider time frame to talk about it.
-  
-# Sprint Review 
+<div class="images-container">
+    <img src="ss4.png" width="350" height="600" alt="Screenshot 4">
+    <img src="ss5.png" width="350" height="600" alt="Screenshot 5">
+    <img src="ss6.png" width="350" height="600" alt="Screenshot 6">
+    <img src="ss7.png" width="350" height="600" alt="Screenshot 7">
+</div>
 
-## Participants
+<ul>
+    <li><strong>Problems and Obstacles:</strong> Initial low motivation and stressful factors led to communication and indecision issues. Addressing expectations and sensitivities improved team trust and support.</li>
+</ul>
 
-Yağız, Yasin, Zeynep, Zümra, Zozan
+<h3>Notes and Additional Information</h3>
+<ul>
+    <li>All tasks and progress will be tracked on <a href="https://trello.com/invite/b/xrTqoIbq/ATTI4f8740de48680f66f6c977fad6bb6cdd8AB256ED/epic-minds">Trello</a>.</li>
+    <li>The Scrum Master is responsible for updating daily meetings.</li>
+</ul>
 
-## Meeting Agenda
-First sprint and game draft
+<hr>
 
-1. **Sprint Goals**
-   - Completing character selection
-   - Writing basic movement codes
-   - The game content was discussed and the game story and general content were decided.
+<h1>Sprint 2</h1>
 
-2. **Collecting Feedback**
-   - Self-evaluations of team members
-   - What can be done to make up for the past three weeks?
-
-3. **Deficiencies and Areas for Improvement**
-   - Using icebreaker content for team motivation
-   - Specification of areas that need to be worked on in the next sprint
-
-# Sprint Retrospective
-
-- **Good Parts:**
-- 
-  - Increased communication and trust between team members
-  - Sprint goals were largely completed successfully.
-  - Daily stand-up meetings were productive and problems were resolved quickly.
-  - Making assignments to the right members is an indication that the process will accelerate and progress better.
-  - The positive aspects of collaboration and communication within the team were very beneficial to the content.
-
-- **Bad Parts:**
-- 
-  - The slow progress of the process until a certain date.
-  - Small deadlines are exceeded, even if only slightly.
-
-- **They will be improved:**
-- 
-  - Duty periods need to be planned more realistically.
-  
-**Targets for the Next Sprint:**
-
-- The development of the character in the game was discussed.
-- The date has been set for level design, UI and AI add-ons.
-
-## Sprint 2
-
-**Estimated Points to be Completed in Sprint:** 8 points.
-
-## Sprint End Evaluation
-
-The target score we set for the sprint was 8 points. Factors affecting the scoring included the completion of level designs, the user interface, the writing of basic movement codes, team initiative, and communication points. Although there were communication issues within the team at the beginning of the sprint, the team’s coming together and closing the gap allowed us to finish the sprint with a full 8 points.
+<h2>Estimated Points for Completion</h2>
+<p>8 Points</p>
 
 
-**Daily Scrum:**
+<h2>Sprint 2 Board Update</h2>
+<div class="center">
+    <img src="sprint2.png" width="900" height="500" alt="Sprint 2 Board Screenshot">
+</div>
 
-Daily Scrum meetings were held both on WhatsApp and Discord. Meetings were held twice a week on Discord. (A brief communication and accessibility issue was experienced within the team after the first sprint.)
-
-
-**WhatsApp Group Logic:** 
-
-The team was divided into two groups for level designs and coding. Level designs were to be completed and sent to the coders by a determined deadline. The coders would then write code based on these designs. Communication continued within the same group.
-
-
-**Meeting and WhatsApp Screenshots:**
-
-<div align="center">
-   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-      <img src="https://github.com/user-attachments/assets/3d6f8304-0b4f-4347-a099-9a2529d6594f" width="900" height="500">
-      <img src="https://github.com/user-attachments/assets/9a29edeb-7fe5-435e-9f89-03018084905a" width="900" height="500">
-   </div>
+<h2>Product Status</h2>
+<div class="images-container">
+    <img src="ss4.png" width="900" height="500" alt="Product Status 4">
+    <img src="ss5.png" width="900" height="500" alt="Product Status 5">
+    <img src="ss6.png" width="900" height="500" alt="Product Status 6">
+    <img src="ss9.png" width="900" height="500" alt="Product Status 9">
 </div>
 
 
+<h2>Sprint Review</h2>
+<p>At the end of Sprint 2, the team gathered to review the sprint. We decided to change the game character in this sprint.</p>
 
-- **Sprint 2 Board Update:** Sprint 2 Board Screenshot:
-- 
-- <div align="center">
-   <img src="https://github.com/user-attachments/assets/73e9bac0-85e6-4084-94cb-296aed9982f3" width="900" height="500">
+<p><strong>Sprint Review Participants:</strong> Yağız, Yasin, Zeynep, Zümra, and Zozan.</p>
+
+<h2>Sprint Retrospective</h2>
+<p>The score for Sprint 2 is a full 8 points. It was emphasized that team members need to be more active in future sprints. Assignments were made until the next sprint.</p>
+
+<ul>
+    <li><strong>Assignments:</strong>
+        <ul>
+            <li>Portal, animation, start, AI, sound (Yasin)</li>
+            <li>Key collection, box movement, health bar (Yağız)</li>
+            <li>Completion of Level 1 was decided.</li>
+        </ul>
+    </li>
+</ul>
+
+<h2>Notes on the Team Between Sprint 1 and Sprint 2</h2>
+
+<h3>Good Points:</h3>
+<ul>
+    <li>Team dynamics improved after minor disputes.</li>
+    <li>The team became more active and took initiatives.</li>
+</ul>
+
+<h3>Bad Points:</h3>
+<ul>
+    <li>There is a tendency to leave some tasks to the last minute even if interim goals are completed.</li>
+</ul>
+
+<h1>SPRINT 3</h1>
+
+<h2>Estimated Points for Completion:</h2>
+<p>9 Points</p>
+
+<p>The point logic includes: health and rage skills, animations, transitions, sounds, Cinemachine, remaining code, overall evaluation, team communication, and activity.</p>
+
+<h2>Sprint 3 Board Update:</h2>
+<div class="center">
+    <img src="sprint3.png" width="900" height="500" alt="Sprint 3 Board Update">
 </div>
 
+<h2>Daily Scrum</h2>
+<p>Daily Scrum meetings were conducted on Discord between 9-10 am or via WhatsApp if a suitable time was not found.</p>
 
-- **Product Status:**
--
-<div align="center">
-   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-      <img src="https://github.com/user-attachments/assets/8c725baf-5c15-4036-bc76-083f77da1740" width="900" height="500">
-      <img src="https://github.com/user-attachments/assets/12835a96-6e1b-44f5-844a-5f48f4896075" width="900" height="500">
-      <img src="https://github.com/user-attachments/assets/3ba76af1-726a-4955-9ee9-e1463fff2653" width="900" height="500">
-      <img src="https://github.com/user-attachments/assets/d4c78390-d110-4c8f-9abb-46c3589a11f2" width="900" height="500">
-      <img src="https://github.com/user-attachments/assets/c33907fd-8092-42bb-a8a3-7be6ad1bf09b" width="900" height="500">
-      <img src="https://github.com/user-attachments/assets/61cd9976-e7d9-4ca3-a537-bd25564623c5" width="900" height="500">
-   </div>
+<div class="images-container">
+    <img src="ss1.png" width="900" height="500" alt="Daily Scrum 1">
+    <img src="ss2.png" width="900" height="500" alt="Daily Scrum 2">
+    <img src="ss3.png" width="900" height="500" alt="Daily Scrum 3">
 </div>
 
-
-  
-### Sprint Review:
-At the end of Sprint 2, the team gathered to review the sprint. We decided to change the game character in this sprint.
-
-
-**Sprint Review Participants:** Yağız, Yasin, Zeynep, Zümra, and Zozan.
-
-
-
-### Sprint Retrospective:
-
-The score for Sprint 2 is a full 8 points.  
-It was emphasized that team members need to be more active in future sprints.  
-Assignments were made until the next sprint.    
-**Assignment topics:** 
-- Portal, animation, start, AI, sound (Yasin)  
-- Key collection, box movement, health bar (Yağız)  
-- Completion of Level 1 was decided.
-
-### Notes on the Team Between Sprint 1 and Sprint 2
-
-
-**Good Points:**
-- The team dynamics gained momentum after minor disputes.
-- We became a team that is starting to become more active and take initiatives.
-
-
-**Bad Points:**
-- Even if our interim goals are completed, there is a tendency to leave some tasks to the last minute within the team.
-
- 
-# SPRINT 3
-
-## Estimated Points for Completion: 9 Points
-
-The point logic includes: health and rage skills, animations, transitions, sounds, Cinemachine, remaining code, overall evaluation, team communication, and activity.
-
-
-- **Sprint 3 Board Update:**
-- 
-<div align="center">
-   <div style="display: flex; justify-content: center;">
-      <img src="https://github.com/user-attachments/assets/92037e57-e572-4dd0-ac91-5be37b359aa3" width="900" height="500">
-   </div>
+<h2>Product Status</h2>
+<div class="images-container">
+    <img src="ps1.png" width="900" height="500" alt="Product Status 1">
+    <img src="ps2.png" width="900" height="500" alt="Product Status 2">
+    <img src="ps3.png" width="900" height="500" alt="Product Status 3">
+    <img src="ps4.png" width="900" height="500" alt="Product Status 4">
+    <img src="ps5.png" width="900" height="500" alt="Product Status 5">
 </div>
 
+<h2>Final Video:</h2>
+<p>[Video Link Here]</p>
 
-## Daily Scrum
+<h1>SPRINT REVIEW</h1>
 
-Daily Scrum meetings were conducted on Discord between 9-10 am or via WhatsApp if a suitable time was not found.
-<div align="center">
-   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-      <img src="https://github.com/user-attachments/assets/8c0dbaf3-02f8-4e63-b410-4219ac027876" width="900" height="500">
-      <img src="https://github.com/user-attachments/assets/d785e183-0dbf-4dd3-9644-96c25cc8936b" width="900" height="500">
-      <img src="https://github.com/user-attachments/assets/c6a52111-ee62-4dd7-a1c7-ef028e6b2884" width="900" height="500">
-   </div>
-</div>
+<p>We should congratulate ourselves for the dedication and effort put in by the team of 5 throughout the process. During this period, we completed:</p>
+<ul>
+    <li>1 character design</li>
+    <li>3 different scenes</li>
+    <li>Numerous mechanical codes</li>
+    <li>3D assets</li>
+    <li>Camera integration</li>
+    <li>NPCs</li>
+    <li>Enemies</li>
+    <li>UI designs</li>
+    <li>AI additions</li>
+</ul>
+<p>24 Backlog points were completed.</p>
 
+<h2>Sprint Review Participants:</h2>
+<ul>
+    <li>Yağız</li>
+    <li>Yasin</li>
+    <li>Zeynep</li>
+    <li>Zozan</li>
+    <li>Zümra</li>
+</ul>
 
-## Product Status
+<h2>Sprint Retrospective</h2>
+<p>We discussed completing the project after the academic period.</p>
 
-<div align="center">
-   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-      <img src="https://github.com/user-attachments/assets/ae0de995-313f-4a58-9329-baf958b529a7" width="900" height="500">
-      <img src="https://github.com/user-attachments/assets/1bb99296-851a-40e5-b9a9-833de192d824" width="900" height="500">
-      <img src="https://github.com/user-attachments/assets/02e6aec1-a3ec-478c-864b-823bbaa64db2" width="900" height="500">
-      <img src="https://github.com/user-attachments/assets/2a09ef8d-6f34-42a7-88d8-93767781b6fa" width="900" height="500">
-      <img src="https://github.com/user-attachments/assets/2fa997c3-0912-4124-a3f1-62370692e80d" width="900" height="500">
-   </div>
-</div>
-
-
-
-### Final Video:
-
-
-## SPRINT REVIEW
-
-We should congratulate ourselves for the dedication and effort put in by the team of 5 throughout the process.
-During this period, we completed:
-- 1 character design
-- 3 different scenes
-- Numerous mechanical codes
-- 3D assets
-- Camera integration
-- NPCs
-- Enemies
-- UI designs
-- AI additions
-
-24 Backlog points were completed.
-
-
-### Sprint Review Participants:
-
-Yağız, Yasin, Zeynep, Zozan, and Zümra
-
-
-## Sprint Retrospective
-
-We discussed completing the project after the academic period.
+</body>
+</html>

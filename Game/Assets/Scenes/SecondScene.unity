@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.005994219, g: 0.060169104, b: 0.19516273, a: 1}
+  m_IndirectSpecularColor: {r: 0.006013802, g: 0.06016229, b: 0.19518852, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -6689,6 +6689,17 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1.1, z: 1}
   m_Center: {x: 0, y: 0.55, z: 0}
+--- !u!114 &414101293 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1528716683950950901, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
+  m_PrefabInstance: {fileID: 4992831132746520228}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &415318790
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10973,6 +10984,17 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1767605477}
   m_SourcePrefab: {fileID: 100100000, guid: 5bd5c1115235d4c868cebe7949e63891, type: 3}
+--- !u!114 &636636844 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3216671450440820991, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
+  m_PrefabInstance: {fileID: 4992831132746520228}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &637674485
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19075,6 +19097,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 1e1a86dea654c477895b7a4148f1adec, type: 3}
   m_PrefabInstance: {fileID: 1034054692}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1064150281 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1011325968343823823, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
+  m_PrefabInstance: {fileID: 4992831132746520228}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1065026687
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25627,6 +25660,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1e1a86dea654c477895b7a4148f1adec, type: 3}
+--- !u!114 &1421683593 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7746396398680927836, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
+  m_PrefabInstance: {fileID: 4992831132746520228}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1424001358
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -39677,11 +39721,11 @@ PrefabInstance:
     - target: {fileID: 2659187709287228518, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
       propertyPath: angerSkillCooldownText
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 414101293}
     - target: {fileID: 2659187709287228518, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
       propertyPath: angerSkillCooldownButton
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 636636844}
     - target: {fileID: 2659187709287228518, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
       propertyPath: cooldownBackgroundColor.a
       value: 0.8666667
@@ -39745,11 +39789,11 @@ PrefabInstance:
     - target: {fileID: 7880351349825706866, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
       propertyPath: healSkillButton
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1421683593}
     - target: {fileID: 7880351349825706866, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}
       propertyPath: healCooldownText
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1064150281}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 6670783090472934292, guid: 93a8137d587b4374cb3f9b6790ddcf51, type: 3}

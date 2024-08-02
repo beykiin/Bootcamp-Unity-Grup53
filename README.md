@@ -155,11 +155,9 @@
 
 <h2>Product Status</h2>
 <div class="images-container">
-    <img src="ss2.png" width="900" height="500" alt="Product Status 2">
     <img src="ss4.png" width="900" height="500" alt="Product Status 4">
     <img src="ss5.png" width="900" height="500" alt="Product Status 5">
     <img src="ss6.png" width="900" height="500" alt="Product Status 6">
-    <img src="ss8.png" width="900" height="500" alt="Product Status 8">
     <img src="ss9.png" width="900" height="500" alt="Product Status 9">
 </div>
 

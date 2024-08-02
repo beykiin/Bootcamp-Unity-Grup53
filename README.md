@@ -203,9 +203,8 @@
 <p>The point logic includes: health and rage skills, animations, transitions, sounds, Cinemachine, remaining code, overall evaluation, team communication, and activity.</p>
 
 <h2>Sprint 3 Board Update:</h2>
-<div class="center">
-    <img src="sprint3.png" width="900" height="500" alt="Sprint 3 Board Update">
-</div>
+
+
 
 <h2>Daily Scrum</h2>
 <p>Daily Scrum meetings were conducted on Discord between 9-10 am or via WhatsApp if a suitable time was not found.</p>

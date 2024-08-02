@@ -99,6 +99,12 @@
 </div>
 
 
+<div class="image-container">
+    <img src="story1.jpeg" alt="Görsel 1">
+    <img src="story2.jpeg" alt="Görsel 2">
+    <img src="story3.jpeg" alt="Görsel 3">
+</div>
+
   # [Epic Minds Assets](https://docs.google.com/document/d/1bZnlj9hFnKjZjAcyhmGC9UBHXMo2jX3bsds5yp9DO3E/edit?usp=sharing)
 
 
@@ -155,7 +161,6 @@
     <img src="sprint2.png" width="900" height="500" alt="Sprint 2 Board Screenshot">
 </div>
 
-<h2>Product Status</h2>
 <div class="images-container">
     <img src="ss4.png" width="900" height="500" alt="Product Status 4">
     <img src="ss5.png" width="900" height="500" alt="Product Status 5">

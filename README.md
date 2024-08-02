@@ -2,26 +2,15 @@
     <h1>TEAM LOGO:</h1>
 </div>
 <div align="center"><img src="teamNameLogo.png" width="350" height="250"></div><hr>
+## Team Members
+
+- [Yağız Şahinler: Product Owner/Developer](https://www.linkedin.com/in/yagizsahinler/)
+- [Zozan Akdoğan: Scrum Master](https://www.linkedin.com/in/zozanakdogan/)
+- [Zümra Betül Alkan: Team Member/Developer](https://www.linkedin.com/in/zumralkan/)
+- [Zeynep Sude Duman: Team Member/Developer](https://www.linkedin.com/in/zeynepsudeduman/)
+- [Yasin Beken: Team Member/Developer](https://www.linkedin.com/in/yasin-beken-51aa0427b/)
+<img height="50">
 <div align="center">
-    <b>SCRUM MASTER:</b>
-    ZOZAN AKDOĞAN
-</div>
-<div align="center">
-    <b>PRODUCT OWNER:</b>
-    YAĞIZ ŞAHİNLER
-</div>
-<div align="center">
-        <b>DEVELOPER:</b>
-        YASİN BEKEN
-</div>
-<div align="center">
-    <b>DEVELOPER:</b>
-    ZÜMRA BETÜL ALKAN
-</div>
-<div align="center">
-    <b>DEVELOPER:</b>
-    ZEYNEP SUDE DUMAN
-</div>
 <hr>
 <img height="50">
 <div align="center">

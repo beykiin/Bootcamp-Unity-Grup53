@@ -218,11 +218,9 @@
 
 <h2>Product Status</h2>
 <div class="images-container">
-    <img src="ps1.png" width="900" height="500" alt="Product Status 1">
-    <img src="ps2.png" width="900" height="500" alt="Product Status 2">
-    <img src="ps3.png" width="900" height="500" alt="Product Status 3">
-    <img src="ps4.png" width="900" height="500" alt="Product Status 4">
-    <img src="ps5.png" width="900" height="500" alt="Product Status 5">
+    <img src="game1.jpeg" width="900" height="500" alt="Product Status 1">
+    <img src="game2.jpeg" width="900" height="500" alt="Product Status 2">
+    <img src="game3.jpeg" width="900" height="500" alt="Product Status 3">
 </div>
 
 <h2>Final Video:</h2>

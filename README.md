@@ -211,9 +211,9 @@
 <p>Daily Scrum meetings were conducted on Discord between 9-10 am or via WhatsApp if a suitable time was not found.</p>
 
 <div class="images-container">
-    <img src="ss1.png" width="900" height="500" alt="Daily Scrum 1">
-    <img src="ss2.png" width="900" height="500" alt="Daily Scrum 2">
-    <img src="ss3.png" width="900" height="500" alt="Daily Scrum 3">
+    <img src="meeting1.jpeg" width="900" height="500" alt="Daily Scrum 1">
+    <img src="meeting2.jpeg" width="900" height="500" alt="Daily Scrum 2">
+    <img src="meeting3.jpeg" width="900" height="500" alt="Daily Scrum 3">
 </div>
 
 <h2>Product Status</h2>

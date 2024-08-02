@@ -331,7 +331,6 @@ Daily Scrum meetings were conducted on Discord between 9-10 am or via WhatsApp i
       <img src="https://github.com/user-attachments/assets/02e6aec1-a3ec-478c-864b-823bbaa64db2" width="900" height="500">
       <img src="https://github.com/user-attachments/assets/2a09ef8d-6f34-42a7-88d8-93767781b6fa" width="900" height="500">
       <img src="https://github.com/user-attachments/assets/2fa997c3-0912-4124-a3f1-62370692e80d" width="900" height="500">
-      <img src="https://github.com/user-attachments/assets/dc4acf88-9242-41ee-b2c7-12b792f157a1" width="900" height="500">
    </div>
 </div>
 

@@ -26,7 +26,7 @@
 <div class="center">
     <h1>GAME LOGO:</h1>
     <p>GAME NAME: GUARDIAN OF SOULS</p>
-    <img src="gos logo.jpg" width="400" height="300" alt="Game Logo">
+    <img src="goslogolast.png" width="400" height="300" alt="Game Logo">
 </div>
 
 <hr>
